@@ -1,0 +1,393 @@
+(* Content-type: application/vnd.wolfram.mathematica *)
+
+(*** Wolfram Notebook File ***)
+(* http://www.wolfram.com/nb *)
+
+(* CreatedBy='Mathematica 9.0' *)
+
+(*CacheID: 234*)
+(* Internal cache information:
+NotebookFileLineBreakTest
+NotebookFileLineBreakTest
+NotebookDataPosition[       157,          7]
+NotebookDataLength[     15430,        385]
+NotebookOptionsPosition[     14548,        351]
+NotebookOutlinePosition[     14956,        369]
+CellTagsIndexPosition[     14913,        366]
+WindowFrame->Normal*)
+
+(* Beginning of Notebook Content *)
+Notebook[{
+Cell[BoxData[
+ RowBox[{
+  RowBox[{"(*", " ", 
+   RowBox[{"Thermal", " ", 
+    RowBox[{"dist", ".", " ", "population"}], " ", "expression"}], " ", 
+   "*)"}], "\[IndentingNewLine]"}]], "Input",
+ CellChangeTimes->{{3.658679478126109*^9, 3.658679486556217*^9}}],
+
+Cell[BoxData[
+ RowBox[{
+  RowBox[{"P", "[", "nbar_", "]"}], ":=", " ", 
+  FractionBox[
+   SuperscriptBox["nbar", "n"], 
+   SuperscriptBox[
+    RowBox[{"(", 
+     RowBox[{"nbar", " ", "+", " ", "1"}], ")"}], 
+    RowBox[{"(", 
+     RowBox[{"n", "+", "1"}], ")"}]]]}]], "Input",
+ CellChangeTimes->{{3.6586794383905964`*^9, 3.658679463195717*^9}, {
+  3.6586799733864665`*^9, 3.6586799748528852`*^9}}],
+
+Cell[BoxData[
+ RowBox[{"\[IndentingNewLine]", "\[IndentingNewLine]", "\[IndentingNewLine]", 
+  RowBox[{"(*", " ", 
+   RowBox[{
+    RowBox[{"Assume", " ", "\[CapitalOmega]"}], " ", "=", " ", 
+    RowBox[{
+     RowBox[{"1", " ", "and", " ", "\[Eta]"}], " ", "=", " ", "0.06"}]}], " ",
+    "*)"}], "\[IndentingNewLine]", "\[IndentingNewLine]", 
+  RowBox[{
+   RowBox[{
+    RowBox[{"\[CapitalOmega]", " ", "=", " ", "1"}], ";"}], 
+   "\[IndentingNewLine]", 
+   RowBox[{
+    RowBox[{"\[Eta]", " ", "=", " ", "0.07"}], ";"}], 
+   "\[IndentingNewLine]"}]}]], "Input",
+ CellChangeTimes->{{3.6586795815330515`*^9, 3.658679601628327*^9}, {
+   3.6586796470704637`*^9, 3.658679659568224*^9}, 3.7064626498414326`*^9}],
+
+Cell[BoxData[
+ RowBox[{"\[IndentingNewLine]", "\[IndentingNewLine]", 
+  RowBox[{"(*", " ", 
+   RowBox[{
+    RowBox[{
+    "Carrier", " ", "flops", " ", "as", " ", "function", " ", "of", " ", 
+     RowBox[{"nbar", " ", "--"}], " ", "sum", " ", "truncated", " ", "at", 
+     " ", "n"}], " ", "=", " ", "500."}], " ", "*)"}], 
+  "\[IndentingNewLine]"}]], "Input",
+ CellChangeTimes->{{3.658679469421197*^9, 3.658679530595997*^9}, {
+  3.658679574551761*^9, 3.65867957987743*^9}, {3.658680344963071*^9, 
+  3.6586803457470818`*^9}}],
+
+Cell[CellGroupData[{
+
+Cell[BoxData[{
+ RowBox[{
+  RowBox[{"Manipulate", "[", "\[IndentingNewLine]", 
+   RowBox[{
+    RowBox[{"Plot", "[", "\[IndentingNewLine]", "\t\t", 
+     RowBox[{
+      RowBox[{"Sum", "[", "     ", 
+       RowBox[{
+        RowBox[{
+         RowBox[{"P", "[", "nbar", "]"}], " ", "*", " ", 
+         SuperscriptBox[
+          RowBox[{"Sin", "[", "   ", 
+           RowBox[{
+            FractionBox["1", "2"], " ", "\[CapitalOmega]", "  ", 
+            RowBox[{"(", 
+             RowBox[{"1", "-", 
+              RowBox[{
+               SuperscriptBox["\[Eta]", "2"], " ", "n"}]}], " ", ")"}], " ", 
+            "t"}], "  ", "]"}], "2"]}], "   ", ",", " ", 
+        RowBox[{"{", 
+         RowBox[{"n", ",", "0", ",", "500"}], "}"}]}], "    ", "]"}], ",", 
+      "\[IndentingNewLine]", 
+      RowBox[{"{", 
+       RowBox[{"t", ",", "0", ",", "tmax"}], "}"}], ",", " ", 
+      RowBox[{"AspectRatio", "\[Rule]", 
+       RowBox[{"1", "/", "2"}]}], " ", ",", " ", 
+      RowBox[{"PlotRange", "\[Rule]", 
+       RowBox[{"{", 
+        RowBox[{"0", ",", "1"}], "}"}]}]}], "]"}], ",", "\[IndentingNewLine]", 
+    RowBox[{"{", 
+     RowBox[{"nbar", ",", "0.01", ",", "30"}], "}"}], ",", " ", 
+    RowBox[{"{", 
+     RowBox[{"tmax", ",", " ", "1", ",", " ", "300"}], "}"}]}], " ", "]"}], 
+  "\[IndentingNewLine]"}], "\[IndentingNewLine]", 
+ RowBox[{"     "}]}], "Input",
+ CellChangeTimes->{{3.6586795019908156`*^9, 3.658679512163146*^9}, {
+  3.6586795672976685`*^9, 3.658679567484871*^9}, {3.6586796125324173`*^9, 
+  3.658679757708089*^9}, {3.6586797963219852`*^9, 3.658679908535632*^9}}],
+
+Cell[BoxData[
+ TagBox[
+  StyleBox[
+   DynamicModuleBox[{$CellContext`nbar$$ = 
+    5.899999999999951, $CellContext`tmax$$ = 43.00000000000127, 
+    Typeset`show$$ = True, Typeset`bookmarkList$$ = {}, 
+    Typeset`bookmarkMode$$ = "Menu", Typeset`animator$$, Typeset`animvar$$ = 
+    1, Typeset`name$$ = "\"untitled\"", Typeset`specs$$ = {{
+      Hold[$CellContext`nbar$$], 0.01, 30}, {
+      Hold[$CellContext`tmax$$], 1, 300}}, Typeset`size$$ = {
+    259.2, {69., 70.47311782525509}}, Typeset`update$$ = 0, 
+    Typeset`initDone$$, Typeset`skipInitDone$$ = 
+    True, $CellContext`nbar$1414$$ = 0, $CellContext`tmax$1415$$ = 0}, 
+    DynamicBox[Manipulate`ManipulateBoxes[
+     1, StandardForm, 
+      "Variables" :> {$CellContext`nbar$$ = 0.01, $CellContext`tmax$$ = 1}, 
+      "ControllerVariables" :> {
+        Hold[$CellContext`nbar$$, $CellContext`nbar$1414$$, 0], 
+        Hold[$CellContext`tmax$$, $CellContext`tmax$1415$$, 0]}, 
+      "OtherVariables" :> {
+       Typeset`show$$, Typeset`bookmarkList$$, Typeset`bookmarkMode$$, 
+        Typeset`animator$$, Typeset`animvar$$, Typeset`name$$, 
+        Typeset`specs$$, Typeset`size$$, Typeset`update$$, Typeset`initDone$$,
+         Typeset`skipInitDone$$}, "Body" :> Plot[
+        Sum[$CellContext`P[$CellContext`nbar$$] 
+         Sin[(1/2) $CellContext`\[CapitalOmega] (
+             1 - $CellContext`\[Eta]^2 $CellContext`n) $CellContext`t]^2, \
+{$CellContext`n, 0, 500}], {$CellContext`t, 0, $CellContext`tmax$$}, 
+        AspectRatio -> 1/2, PlotRange -> {0, 1}], 
+      "Specifications" :> {{$CellContext`nbar$$, 0.01, 
+         30}, {$CellContext`tmax$$, 1, 300}}, "Options" :> {}, 
+      "DefaultOptions" :> {}],
+     ImageSizeCache->{296., {128., 131.}},
+     SingleEvaluation->True],
+    Deinitialization:>None,
+    DynamicModuleValues:>{},
+    SynchronousInitialization->True,
+    UndoTrackedVariables:>{Typeset`show$$, Typeset`bookmarkMode$$},
+    UnsavedVariables:>{Typeset`initDone$$},
+    UntrackedVariables:>{Typeset`size$$}], "Manipulate",
+   Deployed->True,
+   StripOnInput->False],
+  Manipulate`InterpretManipulate[1]]], "Output",
+ CellChangeTimes->{{3.658679827856596*^9, 3.658679875452207*^9}, {
+   3.658679905493593*^9, 3.6586799092688417`*^9}, 3.658679980054753*^9, 
+   3.6593711892099714`*^9, 3.706461865303777*^9, 3.7064625567691994`*^9, 
+   3.717857911652348*^9}]
+}, Open  ]],
+
+Cell[BoxData[
+ RowBox[{"\[IndentingNewLine]", "\[IndentingNewLine]", "\[IndentingNewLine]", 
+  "\[IndentingNewLine]", "\[IndentingNewLine]", 
+  RowBox[{"(*", " ", 
+   RowBox[{
+   "Red", " ", "and", " ", "Blue", " ", "sideband", " ", "flops", " ", "as", 
+    " ", "function", " ", "of", " ", "nbar"}], " ", "*)"}]}]], "Input",
+ CellChangeTimes->{{3.65868035103955*^9, 3.6586803652647347`*^9}}],
+
+Cell[CellGroupData[{
+
+Cell[BoxData[
+ RowBox[{"\[IndentingNewLine]", 
+  RowBox[{"Manipulate", "[", "\[IndentingNewLine]", 
+   RowBox[{
+    RowBox[{"Plot", "[", "   ", 
+     RowBox[{
+      RowBox[{"{", "\[IndentingNewLine]", "\t\t", 
+       RowBox[{
+        RowBox[{"Sum", "[", "     ", 
+         RowBox[{
+          RowBox[{
+           RowBox[{"P", "[", "nbar", "]"}], " ", "*", " ", 
+           SuperscriptBox[
+            RowBox[{"Sin", "[", "   ", 
+             RowBox[{
+              FractionBox["1", "2"], " ", "\[CapitalOmega]", "  ", "\[Eta]", 
+              " ", 
+              SqrtBox["n"], " ", "t"}], "  ", "]"}], "2"]}], "   ", ",", " ", 
+          RowBox[{"{", 
+           RowBox[{"n", ",", "0", ",", "500"}], "}"}]}], "    ", "]"}], ",", 
+        RowBox[{"Sum", "[", "     ", 
+         RowBox[{
+          RowBox[{
+           RowBox[{"P", "[", "nbar", "]"}], " ", "*", " ", 
+           SuperscriptBox[
+            RowBox[{"Sin", "[", "   ", 
+             RowBox[{
+              FractionBox["1", "2"], " ", "\[CapitalOmega]", "  ", "\[Eta]", 
+              " ", 
+              SqrtBox[
+               RowBox[{"n", "+", "1"}]], " ", "t"}], "  ", "]"}], "2"]}], 
+          "   ", ",", " ", 
+          RowBox[{"{", 
+           RowBox[{"n", ",", "0", ",", "500"}], "}"}]}], "    ", "]"}]}], 
+       "\[IndentingNewLine]", "\t", "}"}], ",", "\[IndentingNewLine]", 
+      RowBox[{"{", 
+       RowBox[{"t", ",", "0", ",", "tmax"}], "}"}], ",", " ", 
+      RowBox[{"AspectRatio", "\[Rule]", 
+       RowBox[{"1", "/", "2"}]}], " ", ",", " ", 
+      RowBox[{"PlotRange", "\[Rule]", 
+       RowBox[{"{", 
+        RowBox[{"0", ",", "1"}], "}"}]}], ",", 
+      RowBox[{"PlotStyle", "\[Rule]", 
+       RowBox[{"{", 
+        RowBox[{"Red", ",", "Blue"}], "}"}]}]}], "]"}], ",", 
+    "\[IndentingNewLine]", 
+    RowBox[{"{", 
+     RowBox[{"nbar", ",", "0.01", ",", "30"}], "}"}], ",", " ", 
+    RowBox[{"{", 
+     RowBox[{"tmax", ",", " ", "1", ",", " ", "1200"}], "}"}]}], " ", 
+   "]"}]}]], "Input",
+ CellChangeTimes->{{3.6586803661071453`*^9, 3.65868043338061*^9}, {
+  3.658680566029804*^9, 3.658680568182632*^9}}],
+
+Cell[BoxData[
+ TagBox[
+  StyleBox[
+   DynamicModuleBox[{$CellContext`nbar$$ = 
+    0.2999999999997001, $CellContext`tmax$$ = 69.99999999998727, 
+    Typeset`show$$ = True, Typeset`bookmarkList$$ = {}, 
+    Typeset`bookmarkMode$$ = "Menu", Typeset`animator$$, Typeset`animvar$$ = 
+    1, Typeset`name$$ = "\"untitled\"", Typeset`specs$$ = {{{
+       Hold[$CellContext`nbar$$], 0.2999999999997001}, 0.01, 30}, {{
+       Hold[$CellContext`tmax$$], 70.}, 1, 1200}}, Typeset`size$$ = {
+    360., {97., 101.}}, Typeset`update$$ = 0, Typeset`initDone$$, 
+    Typeset`skipInitDone$$ = True, $CellContext`nbar$1786$$ = 
+    0, $CellContext`tmax$1787$$ = 0}, 
+    DynamicBox[Manipulate`ManipulateBoxes[
+     1, StandardForm, 
+      "Variables" :> {$CellContext`nbar$$ = 
+        0.2999999999997001, $CellContext`tmax$$ = 70.}, "ControllerVariables" :> {
+        Hold[$CellContext`nbar$$, $CellContext`nbar$1786$$, 0], 
+        Hold[$CellContext`tmax$$, $CellContext`tmax$1787$$, 0]}, 
+      "OtherVariables" :> {
+       Typeset`show$$, Typeset`bookmarkList$$, Typeset`bookmarkMode$$, 
+        Typeset`animator$$, Typeset`animvar$$, Typeset`name$$, 
+        Typeset`specs$$, Typeset`size$$, Typeset`update$$, Typeset`initDone$$,
+         Typeset`skipInitDone$$}, "Body" :> Plot[{
+         Sum[$CellContext`P[$CellContext`nbar$$] 
+          Sin[((((1/2) $CellContext`\[CapitalOmega]) $CellContext`\[Eta]) 
+              Sqrt[$CellContext`n]) $CellContext`t]^2, {$CellContext`n, 0, 
+           500}], 
+         Sum[$CellContext`P[$CellContext`nbar$$] 
+          Sin[((((1/2) $CellContext`\[CapitalOmega]) $CellContext`\[Eta]) 
+              Sqrt[$CellContext`n + 1]) $CellContext`t]^2, {$CellContext`n, 0,
+            500}]}, {$CellContext`t, 0, $CellContext`tmax$$}, AspectRatio -> 
+        1/2, PlotRange -> {0, 1}, PlotStyle -> {Red, Blue}], 
+      "Specifications" :> {{{$CellContext`nbar$$, 0.2999999999997001}, 0.01, 
+         30}, {{$CellContext`tmax$$, 70.}, 1, 1200}}, "Options" :> {}, 
+      "DefaultOptions" :> {}],
+     ImageSizeCache->{405., {183., 189.}},
+     SingleEvaluation->True],
+    Deinitialization:>None,
+    DynamicModuleValues:>{},
+    SynchronousInitialization->True,
+    UndoTrackedVariables:>{Typeset`show$$, Typeset`bookmarkMode$$},
+    UnsavedVariables:>{Typeset`initDone$$},
+    UntrackedVariables:>{Typeset`size$$}], "Manipulate",
+   Deployed->True,
+   StripOnInput->False],
+  Manipulate`InterpretManipulate[1]]], "Output",
+ CellChangeTimes->{3.717857912645975*^9}]
+}, Open  ]],
+
+Cell[BoxData[
+ RowBox[{"\[IndentingNewLine]", "\[IndentingNewLine]", "\[IndentingNewLine]", 
+  RowBox[{"(*", " ", 
+   RowBox[{
+   "A", " ", "look", " ", "at", " ", "the", " ", "Fock", " ", "state", " ", 
+    "distribution", " ", "as", " ", "a", " ", "function", " ", "of", " ", 
+    "nbar"}], " ", "*)"}], "\[IndentingNewLine]"}]], "Input",
+ CellChangeTimes->{{3.658680781621414*^9, 3.658680795213066*^9}, {
+  3.6586809960881395`*^9, 3.658680999036577*^9}}],
+
+Cell[CellGroupData[{
+
+Cell[BoxData[
+ RowBox[{"Manipulate", "[", "\[IndentingNewLine]", 
+  RowBox[{
+   RowBox[{"Plot", "[", " ", 
+    RowBox[{
+     RowBox[{"P", "[", "nbar", "]"}], ",", " ", 
+     RowBox[{"{", 
+      RowBox[{"n", ",", "0", ",", "25"}], "}"}], " ", ",", " ", 
+     RowBox[{"PlotRange", "\[Rule]", 
+      RowBox[{"{", 
+       RowBox[{"0", ",", "1"}], "}"}]}], ",", 
+     RowBox[{"AspectRatio", "\[Rule]", 
+      RowBox[{"1", "/", "1.5"}]}]}], "]"}], ",", "\[IndentingNewLine]", 
+   RowBox[{"{", 
+    RowBox[{"nbar", ",", " ", "0.01", ",", " ", "30"}], "}"}]}], 
+  "\[IndentingNewLine]", "]"}]], "Input",
+ CellChangeTimes->{{3.6586807969892435`*^9, 3.658680889276135*^9}, {
+  3.7064719169591885`*^9, 3.706471923052264*^9}}],
+
+Cell[BoxData[
+ TagBox[
+  StyleBox[
+   DynamicModuleBox[{$CellContext`nbar$$ = 0.01, Typeset`show$$ = True, 
+    Typeset`bookmarkList$$ = {}, Typeset`bookmarkMode$$ = "Menu", 
+    Typeset`animator$$, Typeset`animvar$$ = 1, Typeset`name$$ = 
+    "\"untitled\"", Typeset`specs$$ = {{
+      Hold[$CellContext`nbar$$], 0.01, 30}}, Typeset`size$$ = {
+    360., {126., 130.}}, Typeset`update$$ = 0, Typeset`initDone$$, 
+    Typeset`skipInitDone$$ = True, $CellContext`nbar$2064$$ = 0}, 
+    DynamicBox[Manipulate`ManipulateBoxes[
+     1, StandardForm, "Variables" :> {$CellContext`nbar$$ = 0.01}, 
+      "ControllerVariables" :> {
+        Hold[$CellContext`nbar$$, $CellContext`nbar$2064$$, 0]}, 
+      "OtherVariables" :> {
+       Typeset`show$$, Typeset`bookmarkList$$, Typeset`bookmarkMode$$, 
+        Typeset`animator$$, Typeset`animvar$$, Typeset`name$$, 
+        Typeset`specs$$, Typeset`size$$, Typeset`update$$, Typeset`initDone$$,
+         Typeset`skipInitDone$$}, "Body" :> Plot[
+        $CellContext`P[$CellContext`nbar$$], {$CellContext`n, 0, 25}, 
+        PlotRange -> {0, 1}, AspectRatio -> 1/1.5], 
+      "Specifications" :> {{$CellContext`nbar$$, 0.01, 30}}, "Options" :> {}, 
+      "DefaultOptions" :> {}],
+     ImageSizeCache->{405., {184., 190.}},
+     SingleEvaluation->True],
+    Deinitialization:>None,
+    DynamicModuleValues:>{},
+    SynchronousInitialization->True,
+    UndoTrackedVariables:>{Typeset`show$$, Typeset`bookmarkMode$$},
+    UnsavedVariables:>{Typeset`initDone$$},
+    UntrackedVariables:>{Typeset`size$$}], "Manipulate",
+   Deployed->True,
+   StripOnInput->False],
+  Manipulate`InterpretManipulate[1]]], "Output",
+ CellChangeTimes->{
+  3.6586808373386674`*^9, {3.6586808739195375`*^9, 3.6586808899625435`*^9}, 
+   3.6593711905234056`*^9, {3.706471918869876*^9, 3.706471923797498*^9}, 
+   3.717857913519964*^9}]
+}, Open  ]],
+
+Cell[BoxData[""], "Input",
+ CellChangeTimes->{3.7178585212734537`*^9}]
+},
+WindowSize->{1061, 802},
+WindowMargins->{{0, Automatic}, {78, Automatic}},
+PrintingCopies->1,
+PrintingPageRange->{1, Automatic},
+FrontEndVersion->"11.0 for Mac OS X x86 (32-bit, 64-bit Kernel) (July 28, \
+2016)",
+StyleDefinitions->"Default.nb"
+]
+(* End of Notebook Content *)
+
+(* Internal cache information *)
+(*CellTagsOutline
+CellTagsIndex->{}
+*)
+(*CellTagsIndex
+CellTagsIndex->{}
+*)
+(*NotebookFileOutline
+Notebook[{
+Cell[557, 20, 258, 6, 54, "Input"],
+Cell[818, 28, 397, 11, 55, "Input"],
+Cell[1218, 41, 703, 16, 180, "Input"],
+Cell[1924, 59, 524, 11, 96, "Input"],
+Cell[CellGroupData[{
+Cell[2473, 74, 1573, 37, 206, "Input"],
+Cell[4049, 113, 2346, 46, 389, "Output"]
+}, Open  ]],
+Cell[6410, 162, 392, 7, 138, "Input"],
+Cell[CellGroupData[{
+Cell[6827, 173, 2089, 52, 212, "Input"],
+Cell[8919, 227, 2484, 47, 389, "Output"]
+}, Open  ]],
+Cell[11418, 277, 457, 8, 117, "Input"],
+Cell[CellGroupData[{
+Cell[11900, 289, 714, 17, 96, "Input"],
+Cell[12617, 308, 1842, 37, 391, "Output"]
+}, Open  ]],
+Cell[14474, 348, 70, 1, 32, "Input"]
+}
+]
+*)
+
