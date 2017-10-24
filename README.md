@@ -1,4 +1,4 @@
 # phd_thesis
 My completed PhD thesis &amp; some relevant files (Mathematica code, LaTeX and figures, etc). 
 
-Note: there are, unfortunately, some occasional image rendering problems existing on delaubenfels_thesis.pdf which seem to be a product of either InkScape or TeX. 
+Note: there seem to be image rendering errors happening on Figs. 4.3, 5.4, and 5.6 for reasons unknown. I'll try and re-compile the document when I have a chance, but unless you're doing an in-depth reading it shouldn't be too problematic. 
