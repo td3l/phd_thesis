@@ -1,0 +1,30 @@
+This is BibTeX, Version 0.99dThe top-level auxiliary file: thesis.aux
+The style file: biblatex.bst
+Database file #1: thesis-blx.bib
+Database file #2: references.bib
+Warning--entry type for "QuantTh" isn't style-file defined
+--line 146 of file references.bib
+Warning--entry type for "QuantMeas" isn't style-file defined
+--line 153 of file references.bib
+Warning--I'm ignoring Champenois2004298's extra "keywords" field
+--line 190 of file references.bib
+Warning--I'm ignoring Champenois2004298's extra "keywords" field
+--line 191 of file references.bib
+Warning--I'm ignoring Champenois2004298's extra "keywords" field
+--line 192 of file references.bib
+Warning--entry type for "Doppler" isn't style-file defined
+--line 198 of file references.bib
+Warning--entry type for "FreqStands" isn't style-file defined
+--line 571 of file references.bib
+Warning--I'm ignoring FreqStands's extra "author" field
+--line 574 of file references.bib
+Repeated entry---line 1319 of file references.bib
+ : @article{Menicucci10.NJP.12.095019
+ :                                   ,
+I'm skipping whatever remains of this entry
+You're missing an entry type---line 1686 of file references.bib
+ : % 690 @ 
+ :         5MHz, >1200 for < 3 MHz (Is surface)
+I'm skipping whatever remains of this entry
+Biblatex version: 3.3
+(There were 2 error messages)

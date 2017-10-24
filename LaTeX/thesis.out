@@ -1,0 +1,52 @@
+\BOOKMARK [0][-]{titlePage.0}{Title Page}{}% 1
+\BOOKMARK [0][-]{Doc-Start}{Acknowledgments}{}% 2
+\BOOKMARK [0][-]{TOC.0}{Table of Contents}{}% 3
+\BOOKMARK [0][-]{chapter*.1}{List of Tables}{}% 4
+\BOOKMARK [0][-]{chapter*.2}{List of Figures}{}% 5
+\BOOKMARK [0][-]{chapter.1}{Introduction and Background}{}% 6
+\BOOKMARK [1][-]{section.1.1}{On motional state control for computation and simulation}{chapter.1}% 7
+\BOOKMARK [1][-]{section.1.2}{On the improvement of atomic frequency standards}{chapter.1}% 8
+\BOOKMARK [0][-]{chapter.2}{Ion trapping with 40Ca+}{}% 9
+\BOOKMARK [1][-]{section.2.1}{Radio frequency trap principles and ion dynamics}{chapter.2}% 10
+\BOOKMARK [1][-]{section.2.2}{40Ca+ spectroscopy}{chapter.2}% 11
+\BOOKMARK [1][-]{section.2.3}{Laser-ion interactions}{chapter.2}% 12
+\BOOKMARK [2][-]{subsection.2.3.1}{Basic interactions}{section.2.3}% 13
+\BOOKMARK [2][-]{subsection.2.3.2}{Time evolution}{section.2.3}% 14
+\BOOKMARK [2][-]{subsection.2.3.3}{Lamb-Dicke regime approximations}{section.2.3}% 15
+\BOOKMARK [2][-]{subsection.2.3.4}{Coupling strengths}{section.2.3}% 16
+\BOOKMARK [1][-]{section.2.4}{Thermal state distributions}{chapter.2}% 17
+\BOOKMARK [1][-]{section.2.5}{Laser cooling techniques}{chapter.2}% 18
+\BOOKMARK [2][-]{subsection.2.5.1}{Doppler cooling}{section.2.5}% 19
+\BOOKMARK [2][-]{subsection.2.5.2}{Sideband cooling}{section.2.5}% 20
+\BOOKMARK [1][-]{section.2.6}{State preparation and detection}{chapter.2}% 21
+\BOOKMARK [1][-]{section.2.7}{Micromotion effects and compensation}{chapter.2}% 22
+\BOOKMARK [0][-]{chapter.3}{Experimental configuration}{}% 23
+\BOOKMARK [1][-]{section.3.1}{The Gen IIc planar ion trap}{chapter.3}% 24
+\BOOKMARK [1][-]{section.3.2}{Trap enclosures and fluoresence detection}{chapter.3}% 25
+\BOOKMARK [1][-]{section.3.3}{Laser hardware and trap-side configuration}{chapter.3}% 26
+\BOOKMARK [1][-]{section.3.4}{Signal generation, voltage control, and control software}{chapter.3}% 27
+\BOOKMARK [0][-]{chapter.4}{Standing wave gate beams for coupling strength modulation}{}% 28
+\BOOKMARK [1][-]{section.4.1}{Carrier and sideband coupling strengths in standing wave fields}{chapter.4}% 29
+\BOOKMARK [1][-]{section.4.2}{Experimental realization}{chapter.4}% 30
+\BOOKMARK [1][-]{section.4.3}{Results}{chapter.4}% 31
+\BOOKMARK [2][-]{subsection.4.3.1}{Coupling strength fringing and suppression}{section.4.3}% 32
+\BOOKMARK [2][-]{subsection.4.3.2}{Data fits}{section.4.3}% 33
+\BOOKMARK [2][-]{subsection.4.3.3}{Comparison with numerical models}{section.4.3}% 34
+\BOOKMARK [1][-]{section.4.4}{Discussion}{chapter.4}% 35
+\BOOKMARK [0][-]{chapter.5}{Multi-ensemble atomic clocks with adaptive measurements}{}% 36
+\BOOKMARK [1][-]{section.5.1}{Characterization of frequency standards}{chapter.5}% 37
+\BOOKMARK [1][-]{section.5.2}{Ramsey interrogations in atomic clocks}{chapter.5}% 38
+\BOOKMARK [1][-]{section.5.3}{Improved LO stability with multiple atomic ensembles and adaptive measurements}{chapter.5}% 39
+\BOOKMARK [2][-]{subsection.5.3.1}{Clocks with multiple atomic ensembles}{section.5.3}% 40
+\BOOKMARK [2][-]{subsection.5.3.2}{Adaptive measurement techniques in clock interrogations}{section.5.3}% 41
+\BOOKMARK [1][-]{section.5.4}{Implementation in a 40Ca+ optical clock}{chapter.5}% 42
+\BOOKMARK [1][-]{section.5.5}{Research goals}{chapter.5}% 43
+\BOOKMARK [1][-]{section.5.6}{Preliminary results}{chapter.5}% 44
+\BOOKMARK [2][-]{subsection.5.6.1}{Coherence times of a single ion}{section.5.6}% 45
+\BOOKMARK [2][-]{subsection.5.6.2}{Transport heating}{section.5.6}% 46
+\BOOKMARK [2][-]{subsection.5.6.3}{State destruction characterization}{section.5.6}% 47
+\BOOKMARK [1][-]{section.5.7}{Discussion}{chapter.5}% 48
+\BOOKMARK [0][-]{chapter.6}{Conclusion and future outlook}{}% 49
+\BOOKMARK [1][-]{section.6.1}{On motional state control via standing wave beams}{chapter.6}% 50
+\BOOKMARK [1][-]{section.6.2}{On the implementation of multiple ensembles and adaptive measurements in atomic clocks}{chapter.6}% 51
+\BOOKMARK [0][-]{chapter*.4}{References}{}% 52

@@ -1,0 +1,5240 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 2.8 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated as
+% required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+\sortlist[entry]{none/global/}
+  \entry{doi:10.1080/09500349708231863}{article}{}
+    \name{author}{2}{}{%
+      {{hash=SWP}{%
+         family={Schleich},
+         familyi={S\bibinitperiod},
+         given={W.\bibnamedelima P.},
+         giveni={W\bibinitperiod\bibinitdelim P\bibinitperiod},
+      }}%
+      {{hash=RMG}{%
+         family={Raymer},
+         familyi={R\bibinitperiod},
+         given={M.\bibnamedelima G.},
+         giveni={M\bibinitperiod\bibinitdelim G\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{SWPRMG1}
+    \strng{fullhash}{SWPRMG1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{doi}
+    \verb 10.1080/09500349708231863
+    \endverb
+    \field{number}{11-12}
+    \field{pages}{2021\bibrangedash 2022}
+    \field{title}{Special issue on quantum state preparation and measurement}
+    \verb{url}
+    \verb http://www.tandfonline.com/doi/abs/10.1080/09500349708231863
+    \endverb
+    \field{volume}{44}
+    \field{journaltitle}{Journal of Modern Optics}
+    \field{year}{1997}
+  \endentry
+
+  \entry{QuantMeas}{misc}{}
+    \name{author}{2}{}{%
+      {{hash=WH}{%
+         family={Wiseman},
+         familyi={W\bibinitperiod},
+         given={H.M.},
+         giveni={H\bibinitperiod},
+      }}%
+      {{hash=MG}{%
+         family={Milburn},
+         familyi={M\bibinitperiod},
+         given={G.J.},
+         giveni={G\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{WHMG1}
+    \strng{fullhash}{WHMG1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{title}{Quantum Measurement and Control}
+    \field{year}{2010}
+  \endentry
+
+  \entry{QuantTh}{misc}{}
+    \name{author}{2}{}{%
+      {{hash=WJA}{%
+         family={Wheeler},
+         familyi={W\bibinitperiod},
+         given={J.\bibnamedelima A.},
+         giveni={J\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+      {{hash=ZWH}{%
+         family={Zurek},
+         familyi={Z\bibinitperiod},
+         given={W.\bibnamedelima H.},
+         giveni={W\bibinitperiod\bibinitdelim H\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Princeton Univ. Pr.}%
+    }
+    \strng{namehash}{WJAZWH1}
+    \strng{fullhash}{WJAZWH1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{title}{Quantum Theory and Measurement}
+    \field{year}{1983}
+  \endentry
+
+  \entry{Dowling1655}{article}{}
+    \name{author}{2}{}{%
+      {{hash=DJP}{%
+         family={Dowling},
+         familyi={D\bibinitperiod},
+         given={Jonathan\bibnamedelima P.},
+         giveni={J\bibinitperiod\bibinitdelim P\bibinitperiod},
+      }}%
+      {{hash=MGJ}{%
+         family={Milburn},
+         familyi={M\bibinitperiod},
+         given={Gerard\bibnamedelima J.},
+         giveni={G\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {The Royal Society}%
+    }
+    \strng{namehash}{DJPMGJ1}
+    \strng{fullhash}{DJPMGJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{abstract}{%
+    We are currently in the midst of a second quantum revolution The first
+  quantum revolution gave us new rules that govern physical reality. The second
+  quantum revolution will take these rules and use them to develop new
+  technologies. In this review we discuss the principles upon which quantum
+  technology is based and the tools required to develop it. We discuss a number
+  of examples of research programs that could deliver quantum technologies in
+  coming decades including: quantum information technology, quantum
+  electromechanical systems, coherent quantum electronics, quantum optics and
+  coherent matter technology.%
+    }
+    \verb{doi}
+    \verb 10.1098/rsta.2003.1227
+    \endverb
+    \verb{eprint}
+    \verb http://rsta.royalsocietypublishing.org/content/361/1809/1655.full.pdf
+    \endverb
+    \field{issn}{1364-503X}
+    \field{number}{1809}
+    \field{pages}{1655\bibrangedash 1674}
+    \field{title}{Quantum technology: the second quantum revolution}
+    \verb{url}
+    \verb http://rsta.royalsocietypublishing.org/content/361/1809/1655
+    \endverb
+    \field{volume}{361}
+    \field{journaltitle}{Philosophical Transactions of the Royal Society of
+  London A: Mathematical, Physical and Engineering Sciences}
+    \field{year}{2003}
+  \endentry
+
+  \entry{Jaynes63.IEEE.51.89}{article}{}
+    \name{author}{2}{}{%
+      {{hash=JE}{%
+         family={Jaynes},
+         familyi={J\bibinitperiod},
+         given={E.T.},
+         giveni={E\bibinitperiod},
+      }}%
+      {{hash=CF}{%
+         family={Cummings},
+         familyi={C\bibinitperiod},
+         given={F.W.},
+         giveni={F\bibinitperiod},
+      }}%
+    }
+    \keyw{Coherence, Electromagnetic fields, Electromagnetic radiation, Energy
+  exchange, Frequency, Masers, Noise level, Quantum mechanics, Stability,
+  Tellurium}
+    \strng{namehash}{JECF1}
+    \strng{fullhash}{JECF1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{doi}
+    \verb 10.1109/PROC.1963.1664
+    \endverb
+    \field{issn}{0018-9219}
+    \field{number}{1}
+    \field{pages}{89\bibrangedash 109}
+    \field{title}{Comparison of quantum and semiclassical radiation theories
+  with application to the beam maser}
+    \field{volume}{51}
+    \field{journaltitle}{Proc. of the {IEEE}}
+    \field{year}{1963}
+  \endentry
+
+  \entry{CavityQED}{article}{}
+    \name{author}{1}{}{%
+      {{hash=BPR}{%
+         family={Berman},
+         familyi={B\bibinitperiod},
+         given={P.\bibnamedelima R.},
+         giveni={P\bibinitperiod\bibinitdelim R\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{BPR1}
+    \strng{fullhash}{BPR1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{title}{Cavity Quantum Electrodynamics}
+    \field{journaltitle}{Academic Press}
+    \field{year}{1994}
+  \endentry
+
+  \entry{Wu97.PRL.78.3086}{article}{}
+    \name{author}{2}{}{%
+      {{hash=WY}{%
+         family={Wu},
+         familyi={W\bibinitperiod},
+         given={Ying},
+         giveni={Y\bibinitperiod},
+      }}%
+      {{hash=YX}{%
+         family={Yang},
+         familyi={Y\bibinitperiod},
+         given={Xiaoxue},
+         giveni={X\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {American Physical Society}%
+    }
+    \strng{namehash}{WYYX1}
+    \strng{fullhash}{WYYX1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{doi}
+    \verb 10.1103/PhysRevLett.78.3086
+    \endverb
+    \field{issue}{16}
+    \field{pages}{3086\bibrangedash 3088}
+    \field{title}{Jaynes-Cummings Model for a Trapped Ion in Any Position of a
+  Standing Wave}
+    \verb{url}
+    \verb http://link.aps.org/doi/10.1103/PhysRevLett.78.3086
+    \endverb
+    \field{volume}{78}
+    \field{journaltitle}{Phys. Rev. Lett.}
+    \field{year}{1997}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{PhysRevA.49.1202}{article}{}
+    \name{author}{4}{}{%
+      {{hash=CJI}{%
+         family={Cirac},
+         familyi={C\bibinitperiod},
+         given={J.\bibnamedelima I.},
+         giveni={J\bibinitperiod\bibinitdelim I\bibinitperiod},
+      }}%
+      {{hash=BR}{%
+         family={Blatt},
+         familyi={B\bibinitperiod},
+         given={R.},
+         giveni={R\bibinitperiod},
+      }}%
+      {{hash=PAS}{%
+         family={Parkins},
+         familyi={P\bibinitperiod},
+         given={A.\bibnamedelima S.},
+         giveni={A\bibinitperiod\bibinitdelim S\bibinitperiod},
+      }}%
+      {{hash=ZP}{%
+         family={Zoller},
+         familyi={Z\bibinitperiod},
+         given={P.},
+         giveni={P\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {American Physical Society}%
+    }
+    \strng{namehash}{CJIBRPASZP1}
+    \strng{fullhash}{CJIBRPASZP1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{doi}
+    \verb 10.1103/PhysRevA.49.1202
+    \endverb
+    \field{issue}{2}
+    \field{pages}{1202\bibrangedash 1207}
+    \field{title}{Quantum collapse and revival in the motion of a single
+  trapped ion}
+    \verb{url}
+    \verb https://link.aps.org/doi/10.1103/PhysRevA.49.1202
+    \endverb
+    \field{volume}{49}
+    \field{journaltitle}{Phys. Rev. A}
+    \field{year}{1994}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{PhysRevLett.76.1796}{article}{}
+    \name{author}{5}{}{%
+      {{hash=MDM}{%
+         family={Meekhof},
+         familyi={M\bibinitperiod},
+         given={D.\bibnamedelima M.},
+         giveni={D\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+      {{hash=MC}{%
+         family={Monroe},
+         familyi={M\bibinitperiod},
+         given={C.},
+         giveni={C\bibinitperiod},
+      }}%
+      {{hash=KBE}{%
+         family={King},
+         familyi={K\bibinitperiod},
+         given={B.\bibnamedelima E.},
+         giveni={B\bibinitperiod\bibinitdelim E\bibinitperiod},
+      }}%
+      {{hash=IWM}{%
+         family={Itano},
+         familyi={I\bibinitperiod},
+         given={W.\bibnamedelima M.},
+         giveni={W\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+      {{hash=WDJ}{%
+         family={Wineland},
+         familyi={W\bibinitperiod},
+         given={D.\bibnamedelima J.},
+         giveni={D\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {American Physical Society}%
+    }
+    \strng{namehash}{MDMMCKBEIWMWDJ1}
+    \strng{fullhash}{MDMMCKBEIWMWDJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{doi}
+    \verb 10.1103/PhysRevLett.76.1796
+    \endverb
+    \field{issue}{11}
+    \field{pages}{1796\bibrangedash 1799}
+    \field{title}{Generation of Nonclassical Motional States of a Trapped Atom}
+    \verb{url}
+    \verb https://link.aps.org/doi/10.1103/PhysRevLett.76.1796
+    \endverb
+    \field{volume}{76}
+    \field{journaltitle}{Phys. Rev. Lett.}
+    \field{year}{1996}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{Cirac95.PRL.74.4091}{article}{}
+    \name{author}{2}{}{%
+      {{hash=CJI}{%
+         family={Cirac},
+         familyi={C\bibinitperiod},
+         given={J.\bibnamedelima I.},
+         giveni={J\bibinitperiod\bibinitdelim I\bibinitperiod},
+      }}%
+      {{hash=ZP}{%
+         family={Zoller},
+         familyi={Z\bibinitperiod},
+         given={P.},
+         giveni={P\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {American Physical Society}%
+    }
+    \strng{namehash}{CJIZP1}
+    \strng{fullhash}{CJIZP1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{doi}
+    \verb 10.1103/PhysRevLett.74.4091
+    \endverb
+    \field{issue}{20}
+    \field{pages}{4091\bibrangedash 4094}
+    \field{title}{Quantum Computations with Cold Trapped Ions}
+    \verb{url}
+    \verb http://link.aps.org/doi/10.1103/PhysRevLett.74.4091
+    \endverb
+    \field{volume}{74}
+    \field{journaltitle}{Phys. Rev. Lett.}
+    \field{year}{1995}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{Sorensen00.PRA.62.022311}{article}{}
+    \name{author}{2}{}{%
+      {{hash=SA}{%
+         family={S\o{}rensen},
+         familyi={S\bibinitperiod},
+         given={Anders},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=MK}{%
+         family={M\o{}lmer},
+         familyi={M\bibinitperiod},
+         given={Klaus},
+         giveni={K\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {American Physical Society}%
+    }
+    \strng{namehash}{SAMK1}
+    \strng{fullhash}{SAMK1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{doi}
+    \verb 10.1103/PhysRevA.62.022311
+    \endverb
+    \field{issue}{2}
+    \field{pages}{022311}
+    \field{title}{Entanglement and quantum computation with ions in thermal
+  motion}
+    \verb{url}
+    \verb http://link.aps.org/doi/10.1103/PhysRevA.62.022311
+    \endverb
+    \field{volume}{62}
+    \field{journaltitle}{Phys. Rev. A}
+    \field{year}{2000}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{Schmidt03.Nature.422.408}{article}{}
+    \name{author}{10}{}{%
+      {{hash=SKF}{%
+         family={Schmidt-Kaler},
+         familyi={S\bibinitperiod-K\bibinitperiod},
+         given={Ferdinand},
+         giveni={F\bibinitperiod},
+      }}%
+      {{hash=HH}{%
+         family={H{\"a}ffner},
+         familyi={H\bibinitperiod},
+         given={Hartmut},
+         giveni={H\bibinitperiod},
+      }}%
+      {{hash=RM}{%
+         family={Riebe},
+         familyi={R\bibinitperiod},
+         given={Mark},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=GS}{%
+         family={Gulde},
+         familyi={G\bibinitperiod},
+         given={Stephan},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=LGP}{%
+         family={Lancaster},
+         familyi={L\bibinitperiod},
+         given={Gavin\bibnamedelima PT},
+         giveni={G\bibinitperiod\bibinitdelim P\bibinitperiod},
+      }}%
+      {{hash=DT}{%
+         family={Deuschle},
+         familyi={D\bibinitperiod},
+         given={Thomas},
+         giveni={T\bibinitperiod},
+      }}%
+      {{hash=BC}{%
+         family={Becher},
+         familyi={B\bibinitperiod},
+         given={Christoph},
+         giveni={C\bibinitperiod},
+      }}%
+      {{hash=RCF}{%
+         family={Roos},
+         familyi={R\bibinitperiod},
+         given={Christian\bibnamedelima F},
+         giveni={C\bibinitperiod\bibinitdelim F\bibinitperiod},
+      }}%
+      {{hash=EJ}{%
+         family={Eschner},
+         familyi={E\bibinitperiod},
+         given={J{\"u}rgen},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=BR}{%
+         family={Blatt},
+         familyi={B\bibinitperiod},
+         given={Rainer},
+         giveni={R\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Nature Publishing Group}%
+    }
+    \strng{namehash}{SKFHHRMGSLGPDTBCRCFEJBR1}
+    \strng{fullhash}{SKFHHRMGSLGPDTBCRCFEJBR1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{doi}
+    \verb 10.1038/nature01494
+    \endverb
+    \field{number}{6930}
+    \field{pages}{408\bibrangedash 411}
+    \field{title}{Realization of the Cirac--Zoller controlled-NOT quantum gate}
+    \field{volume}{422}
+    \field{journaltitle}{Nature}
+    \field{year}{2003}
+  \endentry
+
+  \entry{Diedrich89.PRL.62.403}{article}{}
+    \name{author}{4}{}{%
+      {{hash=DF}{%
+         family={Diedrich},
+         familyi={D\bibinitperiod},
+         given={F.},
+         giveni={F\bibinitperiod},
+      }}%
+      {{hash=BJC}{%
+         family={Bergquist},
+         familyi={B\bibinitperiod},
+         given={J.\bibnamedelima C.},
+         giveni={J\bibinitperiod\bibinitdelim C\bibinitperiod},
+      }}%
+      {{hash=IWM}{%
+         family={Itano},
+         familyi={I\bibinitperiod},
+         given={Wayne\bibnamedelima M.},
+         giveni={W\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+      {{hash=WDJ}{%
+         family={Wineland},
+         familyi={W\bibinitperiod},
+         given={D.\bibnamedelima J.},
+         giveni={D\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {American Physical Society}%
+    }
+    \strng{namehash}{DFBJCIWMWDJ1}
+    \strng{fullhash}{DFBJCIWMWDJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{doi}
+    \verb 10.1103/PhysRevLett.62.403
+    \endverb
+    \field{issue}{4}
+    \field{pages}{403\bibrangedash 406}
+    \field{title}{Laser Cooling to the Zero-Point Energy of Motion}
+    \verb{url}
+    \verb http://link.aps.org/doi/10.1103/PhysRevLett.62.403
+    \endverb
+    \field{volume}{62}
+    \field{journaltitle}{Phys. Rev. Lett.}
+    \field{year}{1989}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{Turchette.PRA.61.063418}{article}{}
+    \name{author}{12}{}{%
+      {{hash=TQA}{%
+         family={Turchette},
+         familyi={T\bibinitperiod},
+         given={Q.\bibnamedelima A.},
+         giveni={Q\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+      {{hash=KD}{%
+         family={Kielpinski},
+         familyi={K\bibinitperiod},
+         given={D.},
+         giveni={D\bibinitperiod},
+      }}%
+      {{hash=KBE}{%
+         family={King},
+         familyi={K\bibinitperiod},
+         given={B.\bibnamedelima E.},
+         giveni={B\bibinitperiod\bibinitdelim E\bibinitperiod},
+      }}%
+      {{hash=LD}{%
+         family={Leibfried},
+         familyi={L\bibinitperiod},
+         given={D.},
+         giveni={D\bibinitperiod},
+      }}%
+      {{hash=MDM}{%
+         family={Meekhof},
+         familyi={M\bibinitperiod},
+         given={D.\bibnamedelima M.},
+         giveni={D\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+      {{hash=MCJ}{%
+         family={Myatt},
+         familyi={M\bibinitperiod},
+         given={C.\bibnamedelima J.},
+         giveni={C\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+      {{hash=RMA}{%
+         family={Rowe},
+         familyi={R\bibinitperiod},
+         given={M.\bibnamedelima A.},
+         giveni={M\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+      {{hash=SCA}{%
+         family={Sackett},
+         familyi={S\bibinitperiod},
+         given={C.\bibnamedelima A.},
+         giveni={C\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+      {{hash=WCS}{%
+         family={Wood},
+         familyi={W\bibinitperiod},
+         given={C.\bibnamedelima S.},
+         giveni={C\bibinitperiod\bibinitdelim S\bibinitperiod},
+      }}%
+      {{hash=IWM}{%
+         family={Itano},
+         familyi={I\bibinitperiod},
+         given={W.\bibnamedelima M.},
+         giveni={W\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+      {{hash=MC}{%
+         family={Monroe},
+         familyi={M\bibinitperiod},
+         given={C.},
+         giveni={C\bibinitperiod},
+      }}%
+      {{hash=WDJ}{%
+         family={Wineland},
+         familyi={W\bibinitperiod},
+         given={D.\bibnamedelima J.},
+         giveni={D\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {American Physical Society}%
+    }
+    \strng{namehash}{TQAKDKBELDMDMMCJRMASCAWCSIWMMCWDJ1}
+    \strng{fullhash}{TQAKDKBELDMDMMCJRMASCAWCSIWMMCWDJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{doi}
+    \verb 10.1103/PhysRevA.61.063418
+    \endverb
+    \field{issue}{6}
+    \field{pages}{063418}
+    \field{title}{Heating of trapped ions from the quantum ground state}
+    \verb{url}
+    \verb http://link.aps.org/doi/10.1103/PhysRevA.61.063418
+    \endverb
+    \field{volume}{61}
+    \field{journaltitle}{Phys. Rev. A}
+    \field{year}{2000}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{Shu14.PRA.89.062308}{article}{}
+    \name{author}{7}{}{%
+      {{hash=SG}{%
+         family={Shu},
+         familyi={S\bibinitperiod},
+         given={G.},
+         giveni={G\bibinitperiod},
+      }}%
+      {{hash=VG}{%
+         family={Vittorini},
+         familyi={V\bibinitperiod},
+         given={G.},
+         giveni={G\bibinitperiod},
+      }}%
+      {{hash=BA}{%
+         family={Buikema},
+         familyi={B\bibinitperiod},
+         given={A.},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=NCS}{%
+         family={Nichols},
+         familyi={N\bibinitperiod},
+         given={C.\bibnamedelima S.},
+         giveni={C\bibinitperiod\bibinitdelim S\bibinitperiod},
+      }}%
+      {{hash=VC}{%
+         family={Volin},
+         familyi={V\bibinitperiod},
+         given={C.},
+         giveni={C\bibinitperiod},
+      }}%
+      {{hash=SD}{%
+         family={Stick},
+         familyi={S\bibinitperiod},
+         given={D.},
+         giveni={D\bibinitperiod},
+      }}%
+      {{hash=BKR}{%
+         family={Brown},
+         familyi={B\bibinitperiod},
+         given={Kenneth\bibnamedelima R.},
+         giveni={K\bibinitperiod\bibinitdelim R\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {American Physical Society}%
+    }
+    \strng{namehash}{SGVGBANCSVCSDBKR1}
+    \strng{fullhash}{SGVGBANCSVCSDBKR1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{doi}
+    \verb 10.1103/PhysRevA.89.062308
+    \endverb
+    \field{issue}{6}
+    \field{pages}{062308}
+    \field{title}{Heating rates and ion-motion control in a
+  $\mathsf{Y}$-junction surface-electrode trap}
+    \verb{url}
+    \verb http://link.aps.org/doi/10.1103/PhysRevA.89.062308
+    \endverb
+    \field{volume}{89}
+    \field{journaltitle}{Phys. Rev. A}
+    \field{year}{2014}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{Goeders13.JPhysChemA.117.9725}{article}{}
+    \name{author}{6}{}{%
+      {{hash=GJE}{%
+         family={Goeders},
+         familyi={G\bibinitperiod},
+         given={James\bibnamedelima E},
+         giveni={J\bibinitperiod\bibinitdelim E\bibinitperiod},
+      }}%
+      {{hash=CCR}{%
+         family={Clark},
+         familyi={C\bibinitperiod},
+         given={Craig\bibnamedelima R},
+         giveni={C\bibinitperiod\bibinitdelim R\bibinitperiod},
+      }}%
+      {{hash=VG}{%
+         family={Vittorini},
+         familyi={V\bibinitperiod},
+         given={Grahame},
+         giveni={G\bibinitperiod},
+      }}%
+      {{hash=WK}{%
+         family={Wright},
+         familyi={W\bibinitperiod},
+         given={Kenneth},
+         giveni={K\bibinitperiod},
+      }}%
+      {{hash=VCR}{%
+         family={Viteri},
+         familyi={V\bibinitperiod},
+         given={C\bibnamedelima Ricardo},
+         giveni={C\bibinitperiod\bibinitdelim R\bibinitperiod},
+      }}%
+      {{hash=BKR}{%
+         family={Brown},
+         familyi={B\bibinitperiod},
+         given={Kenneth\bibnamedelima R},
+         giveni={K\bibinitperiod\bibinitdelim R\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {ACS Publications}%
+    }
+    \strng{namehash}{GJECCRVGWKVCRBKR1}
+    \strng{fullhash}{GJECCRVGWKVCRBKR1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{doi}
+    \verb 10.1021/jp312368a
+    \endverb
+    \field{number}{39}
+    \field{pages}{9725\bibrangedash 9731}
+    \field{title}{Identifying single molecular ions by resolved sideband
+  measurements}
+    \field{volume}{117}
+    \field{journaltitle}{J. Phys. Chem. A.}
+    \field{year}{2013}
+  \endentry
+
+  \entry{Rugango15.NJP.17.035009}{article}{}
+    \name{author}{8}{}{%
+      {{hash=RR}{%
+         family={Rugango},
+         familyi={R\bibinitperiod},
+         given={R},
+         giveni={R},
+      }}%
+      {{hash=GJE}{%
+         family={Goeders},
+         familyi={G\bibinitperiod},
+         given={J\bibnamedelima E},
+         giveni={J\bibinitperiod\bibinitdelim E\bibinitperiod},
+      }}%
+      {{hash=DTH}{%
+         family={Dixon},
+         familyi={D\bibinitperiod},
+         given={T\bibnamedelima H},
+         giveni={T\bibinitperiod\bibinitdelim H\bibinitperiod},
+      }}%
+      {{hash=GJM}{%
+         family={Gray},
+         familyi={G\bibinitperiod},
+         given={J\bibnamedelima M},
+         giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+      {{hash=KNB}{%
+         family={Khanyile},
+         familyi={K\bibinitperiod},
+         given={N\bibnamedelima B},
+         giveni={N\bibinitperiod\bibinitdelim B\bibinitperiod},
+      }}%
+      {{hash=SG}{%
+         family={Shu},
+         familyi={S\bibinitperiod},
+         given={G},
+         giveni={G},
+      }}%
+      {{hash=CRJ}{%
+         family={Clark},
+         familyi={C\bibinitperiod},
+         given={R\bibnamedelima J},
+         giveni={R\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+      {{hash=BKR}{%
+         family={Brown},
+         familyi={B\bibinitperiod},
+         given={K\bibnamedelima R},
+         giveni={K\bibinitperiod\bibinitdelim R\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{RRGJEDTHGJMKNBSGCRJBKR1}
+    \strng{fullhash}{RRGJEDTHGJMKNBSGCRJBKR1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{number}{3}
+    \field{pages}{035009}
+    \field{title}{Sympathetic cooling of molecular ion motion to the ground
+  state}
+    \verb{url}
+    \verb http://stacks.iop.org/1367-2630/17/i=3/a=035009
+    \endverb
+    \field{volume}{17}
+    \field{journaltitle}{New J. Phys.}
+    \field{year}{2015}
+  \endentry
+
+  \entry{Wan15.PRA.91.043425}{article}{}
+    \name{author}{4}{}{%
+      {{hash=WY}{%
+         family={Wan},
+         familyi={W\bibinitperiod},
+         given={Yong},
+         giveni={Y\bibinitperiod},
+      }}%
+      {{hash=GF}{%
+         family={Gebert},
+         familyi={G\bibinitperiod},
+         given={Florian},
+         giveni={F\bibinitperiod},
+      }}%
+      {{hash=WF}{%
+         family={Wolf},
+         familyi={W\bibinitperiod},
+         given={Fabian},
+         giveni={F\bibinitperiod},
+      }}%
+      {{hash=SPO}{%
+         family={Schmidt},
+         familyi={S\bibinitperiod},
+         given={Piet\bibnamedelima O.},
+         giveni={P\bibinitperiod\bibinitdelim O\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {American Physical Society}%
+    }
+    \strng{namehash}{WYGFWFSPO1}
+    \strng{fullhash}{WYGFWFSPO1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{doi}
+    \verb 10.1103/PhysRevA.91.043425
+    \endverb
+    \field{issue}{4}
+    \field{pages}{043425}
+    \field{title}{Efficient sympathetic motional-ground-state cooling of a
+  molecular ion}
+    \verb{url}
+    \verb http://link.aps.org/doi/10.1103/PhysRevA.91.043425
+    \endverb
+    \field{volume}{91}
+    \field{journaltitle}{Phys. Rev. A}
+    \field{year}{2015}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{Mizrahi14.APB.114.45}{article}{}
+    \name{author}{7}{}{%
+      {{hash=MJ}{%
+         family={Mizrahi},
+         familyi={M\bibinitperiod},
+         given={J.},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=NB}{%
+         family={Neyenhuis},
+         familyi={N\bibinitperiod},
+         given={B.},
+         giveni={B\bibinitperiod},
+      }}%
+      {{hash=JK}{%
+         family={Johnson},
+         familyi={J\bibinitperiod},
+         given={K.G.},
+         giveni={K\bibinitperiod},
+      }}%
+      {{hash=CW}{%
+         family={Campbell},
+         familyi={C\bibinitperiod},
+         given={W.C.},
+         giveni={W\bibinitperiod},
+      }}%
+      {{hash=SC}{%
+         family={Senko},
+         familyi={S\bibinitperiod},
+         given={C.},
+         giveni={C\bibinitperiod},
+      }}%
+      {{hash=HD}{%
+         family={Hayes},
+         familyi={H\bibinitperiod},
+         given={D.},
+         giveni={D\bibinitperiod},
+      }}%
+      {{hash=MC}{%
+         family={Monroe},
+         familyi={M\bibinitperiod},
+         given={C.},
+         giveni={C\bibinitperiod},
+      }}%
+    }
+    \list{language}{1}{%
+      {English}%
+    }
+    \list{publisher}{1}{%
+      {Springer Berlin Heidelberg}%
+    }
+    \strng{namehash}{MJNBJKCWSCHDMC1}
+    \strng{fullhash}{MJNBJKCWSCHDMC1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{doi}
+    \verb 10.1007/s00340-013-5717-6
+    \endverb
+    \field{issn}{0946-2171}
+    \field{number}{1-2}
+    \field{pages}{45\bibrangedash 61}
+    \field{title}{Quantum control of qubits and atomic motion using ultrafast
+  laser pulses}
+    \verb{url}
+    \verb http://dx.doi.org/10.1007/s00340-013-5717-6
+    \endverb
+    \field{volume}{114}
+    \field{journaltitle}{Appl. Phys. B}
+    \field{year}{2014}
+  \endentry
+
+  \entry{Menicucci10.NJP.12.095019}{article}{}
+    \name{author}{3}{}{%
+      {{hash=MNC}{%
+         family={Menicucci},
+         familyi={M\bibinitperiod},
+         given={Nicolas\bibnamedelima C},
+         giveni={N\bibinitperiod\bibinitdelim C\bibinitperiod},
+      }}%
+      {{hash=OSJ}{%
+         family={Olson},
+         familyi={O\bibinitperiod},
+         given={S\bibnamedelima Jay},
+         giveni={S\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+      {{hash=MGJ}{%
+         family={Milburn},
+         familyi={M\bibinitperiod},
+         given={Gerard\bibnamedelima J},
+         giveni={G\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{MNCOSJMGJ1}
+    \strng{fullhash}{MNCOSJMGJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{abstract}{%
+    We propose a new experimental test bed that uses ions in the collective
+  ground state of a static trap to study the analogue of quantum-field effects
+  in cosmological spacetimes, including the Gibbons–Hawking effect for a
+  single detector in de Sitter spacetime, as well as the possibility of
+  modeling inflationary structure formation and the entanglement signature of
+  de Sitter spacetime. To date, proposals for using trapped ions in analogue
+  gravity experiments have simulated the effect of gravity on the field modes
+  by directly manipulating the ions' motion. In contrast, by associating
+  laboratory time with conformal time in the simulated universe, we can encode
+  the full effect of curvature in the modulation of the laser used to couple
+  the ions' vibrational motion and electronic states. This model simplifies the
+  experimental requirements for modeling the analogue of an expanding universe
+  using trapped ions, and it enlarges the validity of the ion-trap analogy to a
+  wide range of interesting cases.%
+    }
+    \field{number}{9}
+    \field{pages}{095019}
+    \field{title}{Simulating quantum effects of cosmological expansion using a
+  static ion trap}
+    \verb{url}
+    \verb http://stacks.iop.org/1367-2630/12/i=9/a=095019
+    \endverb
+    \field{volume}{12}
+    \field{journaltitle}{New J. Phys.}
+    \field{year}{2010}
+  \endentry
+
+  \entry{Cirac92.PRA.46.2668}{article}{}
+    \name{author}{4}{}{%
+      {{hash=CJI}{%
+         family={Cirac},
+         familyi={C\bibinitperiod},
+         given={J.\bibnamedelima I.},
+         giveni={J\bibinitperiod\bibinitdelim I\bibinitperiod},
+      }}%
+      {{hash=BR}{%
+         family={Blatt},
+         familyi={B\bibinitperiod},
+         given={R.},
+         giveni={R\bibinitperiod},
+      }}%
+      {{hash=ZP}{%
+         family={Zoller},
+         familyi={Z\bibinitperiod},
+         given={P.},
+         giveni={P\bibinitperiod},
+      }}%
+      {{hash=PWD}{%
+         family={Phillips},
+         familyi={P\bibinitperiod},
+         given={W.\bibnamedelima D.},
+         giveni={W\bibinitperiod\bibinitdelim D\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {American Physical Society}%
+    }
+    \strng{namehash}{CJIBRZPPWD1}
+    \strng{fullhash}{CJIBRZPPWD1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{doi}
+    \verb 10.1103/PhysRevA.46.2668
+    \endverb
+    \field{issue}{5}
+    \field{pages}{2668\bibrangedash 2681}
+    \field{title}{Laser cooling of trapped ions in a standing wave}
+    \verb{url}
+    \verb http://link.aps.org/doi/10.1103/PhysRevA.46.2668
+    \endverb
+    \field{volume}{46}
+    \field{journaltitle}{Phys. Rev. A}
+    \field{year}{1992}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{Zhang12.PRA.85.053420}{article}{}
+    \name{author}{3}{}{%
+      {{hash=ZS}{%
+         family={Zhang},
+         familyi={Z\bibinitperiod},
+         given={Shuo},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=WCW}{%
+         family={Wu},
+         familyi={W\bibinitperiod},
+         given={Chun-Wang},
+         giveni={C\bibinitperiod-W\bibinitperiod},
+      }}%
+      {{hash=CPX}{%
+         family={Chen},
+         familyi={C\bibinitperiod},
+         given={Ping-Xing},
+         giveni={P\bibinitperiod-X\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {American Physical Society}%
+    }
+    \strng{namehash}{ZSWCWCPX1}
+    \strng{fullhash}{ZSWCWCPX1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{doi}
+    \verb 10.1103/PhysRevA.85.053420
+    \endverb
+    \field{issue}{5}
+    \field{pages}{053420}
+    \field{title}{Dark-state laser cooling of a trapped ion using standing
+  waves}
+    \verb{url}
+    \verb http://link.aps.org/doi/10.1103/PhysRevA.85.053420
+    \endverb
+    \field{volume}{85}
+    \field{journaltitle}{Phys. Rev. A}
+    \field{year}{2012}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{James98.APB.66.181}{article}{}
+    \name{author}{1}{}{%
+      {{hash=JD}{%
+         family={James},
+         familyi={J\bibinitperiod},
+         given={D.F.V.},
+         giveni={D\bibinitperiod},
+      }}%
+    }
+    \list{language}{1}{%
+      {English}%
+    }
+    \list{publisher}{1}{%
+      {Springer-Verlag}%
+    }
+    \keyw{PACS: 32.80.Qk; 42.50.Vk; 89.80.+h}
+    \strng{namehash}{JD1}
+    \strng{fullhash}{JD1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{doi}
+    \verb 10.1007/s003400050373
+    \endverb
+    \field{issn}{0946-2171}
+    \field{number}{2}
+    \field{pages}{181\bibrangedash 190}
+    \field{title}{Quantum dynamics of cold trapped ions with application to
+  quantum computation}
+    \verb{url}
+    \verb http://dx.doi.org/10.1007/s003400050373
+    \endverb
+    \field{volume}{66}
+    \field{journaltitle}{Appl. Phys. B}
+    \field{year}{1998}
+  \endentry
+
+  \entry{Leibrandt09.PRL.103.103001}{article}{}
+    \name{author}{4}{}{%
+      {{hash=LDR}{%
+         family={Leibrandt},
+         familyi={L\bibinitperiod},
+         given={David\bibnamedelima R.},
+         giveni={D\bibinitperiod\bibinitdelim R\bibinitperiod},
+      }}%
+      {{hash=LJ}{%
+         family={Labaziewicz},
+         familyi={L\bibinitperiod},
+         given={Jaroslaw},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=VacV}{%
+         prefix={Vuleti\ifmmode\bibnamedelima \acute{c}\else},
+         prefixi={V\bibinitperiod\bibinitdelim a\bibinitperiod},
+         family={\'{c}\fi{}},
+         familyi={c\bibinitperiod},
+         given={Vladan},
+         giveni={V\bibinitperiod},
+      }}%
+      {{hash=CIL}{%
+         family={Chuang},
+         familyi={C\bibinitperiod},
+         given={Isaac\bibnamedelima L.},
+         giveni={I\bibinitperiod\bibinitdelim L\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {American Physical Society}%
+    }
+    \strng{namehash}{LDRLJcVVaCIL1}
+    \strng{fullhash}{LDRLJcVVaCIL1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{doi}
+    \verb 10.1103/PhysRevLett.103.103001
+    \endverb
+    \field{issue}{10}
+    \field{pages}{103001}
+    \field{title}{Cavity Sideband Cooling of a Single Trapped Ion}
+    \verb{url}
+    \verb http://link.aps.org/doi/10.1103/PhysRevLett.103.103001
+    \endverb
+    \field{volume}{103}
+    \field{journaltitle}{Phys. Rev. Lett.}
+    \field{year}{2009}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{Guthohrlein01.Nature.414.49}{article}{}
+    \name{author}{5}{}{%
+      {{hash=GG}{%
+         family={Guth{\"o}hrlein},
+         familyi={G\bibinitperiod},
+         given={GR},
+         giveni={G\bibinitperiod},
+      }}%
+      {{hash=KM}{%
+         family={Keller},
+         familyi={K\bibinitperiod},
+         given={M},
+         giveni={M},
+      }}%
+      {{hash=HK}{%
+         family={Hayasaka},
+         familyi={H\bibinitperiod},
+         given={K},
+         giveni={K},
+      }}%
+      {{hash=LW}{%
+         family={Lange},
+         familyi={L\bibinitperiod},
+         given={W},
+         giveni={W},
+      }}%
+      {{hash=WH}{%
+         family={Walther},
+         familyi={W\bibinitperiod},
+         given={H},
+         giveni={H},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Nature Publishing Group}%
+    }
+    \strng{namehash}{GGKMHKLWWH1}
+    \strng{fullhash}{GGKMHKLWWH1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{doi}
+    \verb 10.1038/35102129
+    \endverb
+    \field{number}{6859}
+    \field{pages}{49\bibrangedash 51}
+    \field{title}{A single ion as a nanoscopic probe of an optical field}
+    \field{volume}{414}
+    \field{journaltitle}{Nature}
+    \field{year}{2001}
+  \endentry
+
+  \entry{Steiner13.PRL.110.043003}{article}{}
+    \name{author}{5}{}{%
+      {{hash=SM}{%
+         family={Steiner},
+         familyi={S\bibinitperiod},
+         given={Matthias},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=MHM}{%
+         family={Meyer},
+         familyi={M\bibinitperiod},
+         given={Hendrik\bibnamedelima M.},
+         giveni={H\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+      {{hash=DC}{%
+         family={Deutsch},
+         familyi={D\bibinitperiod},
+         given={Christian},
+         giveni={C\bibinitperiod},
+      }}%
+      {{hash=RJ}{%
+         family={Reichel},
+         familyi={R\bibinitperiod},
+         given={Jakob},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=KM}{%
+         family={K\"ohl},
+         familyi={K\bibinitperiod},
+         given={Michael},
+         giveni={M\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {American Physical Society}%
+    }
+    \strng{namehash}{SMMHMDCRJKM1}
+    \strng{fullhash}{SMMHMDCRJKM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{doi}
+    \verb 10.1103/PhysRevLett.110.043003
+    \endverb
+    \field{issue}{4}
+    \field{pages}{043003}
+    \field{title}{Single Ion Coupled to an Optical Fiber Cavity}
+    \verb{url}
+    \verb http://link.aps.org/doi/10.1103/PhysRevLett.110.043003
+    \endverb
+    \field{volume}{110}
+    \field{journaltitle}{Phys. Rev. Lett.}
+    \field{year}{2013}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{PhysRevLett.89.103001}{article}{}
+    \name{author}{7}{}{%
+      {{hash=MAB}{%
+         family={Mundt},
+         familyi={M\bibinitperiod},
+         given={A.\bibnamedelima B.},
+         giveni={A\bibinitperiod\bibinitdelim B\bibinitperiod},
+      }}%
+      {{hash=KA}{%
+         family={Kreuter},
+         familyi={K\bibinitperiod},
+         given={A.},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=BC}{%
+         family={Becher},
+         familyi={B\bibinitperiod},
+         given={C.},
+         giveni={C\bibinitperiod},
+      }}%
+      {{hash=LD}{%
+         family={Leibfried},
+         familyi={L\bibinitperiod},
+         given={D.},
+         giveni={D\bibinitperiod},
+      }}%
+      {{hash=EJ}{%
+         family={Eschner},
+         familyi={E\bibinitperiod},
+         given={J.},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=SKF}{%
+         family={Schmidt-Kaler},
+         familyi={S\bibinitperiod-K\bibinitperiod},
+         given={F.},
+         giveni={F\bibinitperiod},
+      }}%
+      {{hash=BR}{%
+         family={Blatt},
+         familyi={B\bibinitperiod},
+         given={R.},
+         giveni={R\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {American Physical Society}%
+    }
+    \strng{namehash}{MABKABCLDEJSKFBR1}
+    \strng{fullhash}{MABKABCLDEJSKFBR1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{doi}
+    \verb 10.1103/PhysRevLett.89.103001
+    \endverb
+    \field{issue}{10}
+    \field{pages}{103001}
+    \field{title}{Coupling a Single Atomic Quantum Bit to a High Finesse
+  Optical Cavity}
+    \verb{url}
+    \verb http://link.aps.org/doi/10.1103/PhysRevLett.89.103001
+    \endverb
+    \field{volume}{89}
+    \field{journaltitle}{Phys. Rev. Lett.}
+    \field{year}{2002}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{Harlander10.NJP.9.093035}{article}{}
+    \name{author}{4}{}{%
+      {{hash=HM}{%
+         family={Harlander},
+         familyi={H\bibinitperiod},
+         given={M},
+         giveni={M},
+      }}%
+      {{hash=BM}{%
+         family={Brownnutt},
+         familyi={B\bibinitperiod},
+         given={M},
+         giveni={M},
+      }}%
+      {{hash=HW}{%
+         family={Hänsel},
+         familyi={H\bibinitperiod},
+         given={W},
+         giveni={W},
+      }}%
+      {{hash=BR}{%
+         family={Blatt},
+         familyi={B\bibinitperiod},
+         given={R},
+         giveni={R},
+      }}%
+    }
+    \strng{namehash}{HMBMHWBR1}
+    \strng{fullhash}{HMBMHWBR1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{abstract}{%
+    We use a string of confined 40 Ca + ions to measure perturbations to a
+  trapping potential which are caused by the light-induced charging of an
+  antireflection-coated window and of insulating patches on the ion-trap
+  electrodes. The electric fields induced at the ions' position are
+  characterized as a function of distance to the dielectric and as a function
+  of the incident optical power and wavelength. The measurement of the
+  ion-string position is sensitive to as few as 40 elementary charges per
+  ##IMG## [http://ej.iop.org/images/1367-2630/12/9/093035/nj355310ieqn1.gif]
+  {\sqrt{\rm Hz}} on the dielectric at distances of the order of millimetres,
+  and perturbations are observed for illuminations with light of wavelengths as
+  large as 729?nm. This has important implications for the future of
+  miniaturized ion-trap experiments, notably with regard to the choice of
+  electrode material and the optics that must be integrated in the vicinity of
+  the ion. The method presented here can be readily applied to the
+  investigation of charging effects beyond the context of ion-trap
+  experiments.%
+    }
+    \field{number}{9}
+    \field{pages}{093035}
+    \field{title}{Trapped-ion probing of light-induced charging effects on
+  dielectrics}
+    \verb{url}
+    \verb http://stacks.iop.org/1367-2630/12/i=9/a=093035
+    \endverb
+    \field{volume}{12}
+    \field{journaltitle}{New J. Phys.}
+    \field{year}{2010}
+  \endentry
+
+  \entry{Clark14.PRAppl.1.024004}{article}{}
+    \name{author}{9}{}{%
+      {{hash=CCR}{%
+         family={Clark},
+         familyi={C\bibinitperiod},
+         given={Craig\bibnamedelima R.},
+         giveni={C\bibinitperiod\bibinitdelim R\bibinitperiod},
+      }}%
+      {{hash=CCw}{%
+         family={Chou},
+         familyi={C\bibinitperiod},
+         given={Chin-wen},
+         giveni={C\bibinitperiod-w\bibinitperiod},
+      }}%
+      {{hash=EAR}{%
+         family={Ellis},
+         familyi={E\bibinitperiod},
+         given={A.\bibnamedelima R.},
+         giveni={A\bibinitperiod\bibinitdelim R\bibinitperiod},
+      }}%
+      {{hash=HJ}{%
+         family={Hunker},
+         familyi={H\bibinitperiod},
+         given={Jeff},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=KSA}{%
+         family={Kemme},
+         familyi={K\bibinitperiod},
+         given={Shanalyn\bibnamedelima A.},
+         giveni={S\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+      {{hash=MP}{%
+         family={Maunz},
+         familyi={M\bibinitperiod},
+         given={Peter},
+         giveni={P\bibinitperiod},
+      }}%
+      {{hash=TB}{%
+         family={Tabakov},
+         familyi={T\bibinitperiod},
+         given={Boyan},
+         giveni={B\bibinitperiod},
+      }}%
+      {{hash=TC}{%
+         family={Tigges},
+         familyi={T\bibinitperiod},
+         given={Chris},
+         giveni={C\bibinitperiod},
+      }}%
+      {{hash=SDL}{%
+         family={Stick},
+         familyi={S\bibinitperiod},
+         given={Daniel\bibnamedelima L.},
+         giveni={D\bibinitperiod\bibinitdelim L\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {American Physical Society}%
+    }
+    \strng{namehash}{CCRCCwEARHJKSAMPTBTCSDL1}
+    \strng{fullhash}{CCRCCwEARHJKSAMPTBTCSDL1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{doi}
+    \verb 10.1103/PhysRevApplied.1.024004
+    \endverb
+    \field{issue}{2}
+    \field{pages}{024004}
+    \field{title}{Characterization of Fluorescence Collection Optics Integrated
+  with a Microfabricated Surface Electrode Ion Trap}
+    \verb{url}
+    \verb http://link.aps.org/doi/10.1103/PhysRevApplied.1.024004
+    \endverb
+    \field{volume}{1}
+    \field{journaltitle}{Phys. Rev. Appl.}
+    \field{year}{2014}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{nistclocks}{article}{}
+    \name{author}{11}{}{%
+      {{hash=SDB}{%
+         family={Sullivan},
+         familyi={S\bibinitperiod},
+         given={D.\bibnamedelima B.},
+         giveni={D\bibinitperiod\bibinitdelim B\bibinitperiod},
+      }}%
+      {{hash=BJC}{%
+         family={Bergquist},
+         familyi={B\bibinitperiod},
+         given={J.\bibnamedelima C.},
+         giveni={J\bibinitperiod\bibinitdelim C\bibinitperiod},
+      }}%
+      {{hash=BJJ}{%
+         family={Bollinger},
+         familyi={B\bibinitperiod},
+         given={J.\bibnamedelima J.},
+         giveni={J\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+      {{hash=DRE}{%
+         family={Drullinger},
+         familyi={D\bibinitperiod},
+         given={R.\bibnamedelima E.},
+         giveni={R\bibinitperiod\bibinitdelim E\bibinitperiod},
+      }}%
+      {{hash=IWM}{%
+         family={Itano},
+         familyi={I\bibinitperiod},
+         given={W.\bibnamedelima M.},
+         giveni={W\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+      {{hash=JSR}{%
+         family={Jefferts},
+         familyi={J\bibinitperiod},
+         given={S.\bibnamedelima R.},
+         giveni={S\bibinitperiod\bibinitdelim R\bibinitperiod},
+      }}%
+      {{hash=LWD}{%
+         family={Lee},
+         familyi={L\bibinitperiod},
+         given={W.\bibnamedelima D.},
+         giveni={W\bibinitperiod\bibinitdelim D\bibinitperiod},
+      }}%
+      {{hash=MD}{%
+         family={Meekhof},
+         familyi={M\bibinitperiod},
+         given={D.},
+         giveni={D\bibinitperiod},
+      }}%
+      {{hash=PTE}{%
+         family={Parker},
+         familyi={P\bibinitperiod},
+         given={T.\bibnamedelima E.},
+         giveni={T\bibinitperiod\bibinitdelim E\bibinitperiod},
+      }}%
+      {{hash=WFL}{%
+         family={Walls},
+         familyi={W\bibinitperiod},
+         given={F.\bibnamedelima L.},
+         giveni={F\bibinitperiod\bibinitdelim L\bibinitperiod},
+      }}%
+      {{hash=WDJ}{%
+         family={Wineland},
+         familyi={W\bibinitperiod},
+         given={D.\bibnamedelima J.},
+         giveni={D\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{SDBBJCBJJDREIWMJSRLWDMDPTEWFLWDJ1}
+    \strng{fullhash}{SDBBJCBJJDREIWMJSRLWDMDPTEWFLWDJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{number}{1}
+    \field{pages}{47\bibrangedash 63}
+    \field{title}{Primary Atomic Frequency Standards at NIST}
+    \field{volume}{106}
+    \field{journaltitle}{J. Res. Natl. Inst. Stand. Technol.}
+    \field{year}{2001}
+  \endentry
+
+  \entry{ammoniaclock}{article}{}
+    \name{author}{1}{}{%
+      {{hash=LH}{%
+         family={Lyons},
+         familyi={L\bibinitperiod},
+         given={H.},
+         giveni={H\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{LH1}
+    \strng{fullhash}{LH1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{pages}{133\bibrangedash 135}
+    \field{title}{The atomic clock}
+    \field{volume}{22}
+    \field{journaltitle}{Instruments}
+    \field{year}{1949}
+  \endentry
+
+  \entry{firstCs}{article}{}
+    \name{author}{2}{}{%
+      {{hash=EL}{%
+         family={Essen},
+         familyi={E\bibinitperiod},
+         given={L.},
+         giveni={L\bibinitperiod},
+      }}%
+      {{hash=PJ}{%
+         family={Parry},
+         familyi={P\bibinitperiod},
+         given={J.},
+         giveni={J\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{ELPJ1}
+    \strng{fullhash}{ELPJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{pages}{280\bibrangedash 281}
+    \field{title}{An Atomic Standard of Frequency and Time Interval: A Caesium
+  Resonator}
+    \field{volume}{176}
+    \field{journaltitle}{Nature}
+    \field{year}{1955}
+  \endentry
+
+  \entry{nistf2}{article}{}
+    \name{author}{9}{}{%
+      {{hash=HTP}{%
+         family={Heavner},
+         familyi={H\bibinitperiod},
+         given={Thomas\bibnamedelima P},
+         giveni={T\bibinitperiod\bibinitdelim P\bibinitperiod},
+      }}%
+      {{hash=DEA}{%
+         family={Donley},
+         familyi={D\bibinitperiod},
+         given={Elizabeth\bibnamedelima A},
+         giveni={E\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+      {{hash=LF}{%
+         family={Levi},
+         familyi={L\bibinitperiod},
+         given={Filippo},
+         giveni={F\bibinitperiod},
+      }}%
+      {{hash=CG}{%
+         family={Costanzo},
+         familyi={C\bibinitperiod},
+         given={Giovanni},
+         giveni={G\bibinitperiod},
+      }}%
+      {{hash=PTE}{%
+         family={Parker},
+         familyi={P\bibinitperiod},
+         given={Thomas\bibnamedelima E},
+         giveni={T\bibinitperiod\bibinitdelim E\bibinitperiod},
+      }}%
+      {{hash=SJH}{%
+         family={Shirley},
+         familyi={S\bibinitperiod},
+         given={Jon\bibnamedelima H},
+         giveni={J\bibinitperiod\bibinitdelim H\bibinitperiod},
+      }}%
+      {{hash=AN}{%
+         family={Ashby},
+         familyi={A\bibinitperiod},
+         given={Neil},
+         giveni={N\bibinitperiod},
+      }}%
+      {{hash=BS}{%
+         family={Barlow},
+         familyi={B\bibinitperiod},
+         given={Stephan},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=JSR}{%
+         family={Jefferts},
+         familyi={J\bibinitperiod},
+         given={S\bibnamedelima R},
+         giveni={S\bibinitperiod\bibinitdelim R\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{HTPDEALFCGPTESJHANBSJSR1}
+    \strng{fullhash}{HTPDEALFCGPTESJHANBSJSR1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{pages}{174\bibrangedash 182}
+    \field{title}{First accuracy evaluation of NIST-F2}
+    \field{volume}{51}
+    \field{journaltitle}{Metrologia}
+    \field{year}{2014}
+  \endentry
+
+  \entry{OpticalClocks}{article}{}
+    \name{author}{5}{}{%
+      {{hash=LAD}{%
+         family={Ludlow},
+         familyi={L\bibinitperiod},
+         given={Andrew\bibnamedelima D.},
+         giveni={A\bibinitperiod\bibinitdelim D\bibinitperiod},
+      }}%
+      {{hash=BMM}{%
+         family={Boyd},
+         familyi={B\bibinitperiod},
+         given={Martin\bibnamedelima M.},
+         giveni={M\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+      {{hash=YJ}{%
+         family={Ye},
+         familyi={Y\bibinitperiod},
+         given={Jun},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=PE}{%
+         family={Peik},
+         familyi={P\bibinitperiod},
+         given={E.},
+         giveni={E\bibinitperiod},
+      }}%
+      {{hash=SPO}{%
+         family={Schmidt},
+         familyi={S\bibinitperiod},
+         given={P.\bibnamedelima O.},
+         giveni={P\bibinitperiod\bibinitdelim O\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {American Physical Society}%
+    }
+    \strng{namehash}{LADBMMYJPESPO1}
+    \strng{fullhash}{LADBMMYJPESPO1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{doi}
+    \verb 10.1103/RevModPhys.87.637
+    \endverb
+    \field{issue}{2}
+    \field{pages}{637\bibrangedash 701}
+    \field{title}{Optical atomic clocks}
+    \verb{url}
+    \verb http://link.aps.org/doi/10.1103/RevModPhys.87.637
+    \endverb
+    \field{volume}{87}
+    \field{journaltitle}{Rev. Mod. Phys.}
+    \field{year}{2015}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{IonTrap}{article}{}
+    \name{author}{11}{}{%
+      {{hash=DSC}{%
+         family={Doret},
+         familyi={D\bibinitperiod},
+         given={S\bibnamedelima Charles},
+         giveni={S\bibinitperiod\bibinitdelim C\bibinitperiod},
+      }}%
+      {{hash=AJM}{%
+         family={Amini},
+         familyi={A\bibinitperiod},
+         given={Jason\bibnamedelima M},
+         giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+      {{hash=WK}{%
+         family={Wright},
+         familyi={W\bibinitperiod},
+         given={Kenneth},
+         giveni={K\bibinitperiod},
+      }}%
+      {{hash=VC}{%
+         family={Volin},
+         familyi={V\bibinitperiod},
+         given={Curtis},
+         giveni={C\bibinitperiod},
+      }}%
+      {{hash=KT}{%
+         family={Killian},
+         familyi={K\bibinitperiod},
+         given={Tyler},
+         giveni={T\bibinitperiod},
+      }}%
+      {{hash=OA}{%
+         family={Ozakin},
+         familyi={O\bibinitperiod},
+         given={Arkadas},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=DD}{%
+         family={Denison},
+         familyi={D\bibinitperiod},
+         given={Douglas},
+         giveni={D\bibinitperiod},
+      }}%
+      {{hash=HH}{%
+         family={Hayden},
+         familyi={H\bibinitperiod},
+         given={Harley},
+         giveni={H\bibinitperiod},
+      }}%
+      {{hash=PCS}{%
+         family={Pai},
+         familyi={P\bibinitperiod},
+         given={C-S},
+         giveni={C\bibinitperiod-S\bibinitperiod},
+      }}%
+      {{hash=SRE}{%
+         family={Slusher},
+         familyi={S\bibinitperiod},
+         given={Richart\bibnamedelima E},
+         giveni={R\bibinitperiod\bibinitdelim E\bibinitperiod},
+      }}%
+      {{hash=HAW}{%
+         family={Harter},
+         familyi={H\bibinitperiod},
+         given={Alexa\bibnamedelima W},
+         giveni={A\bibinitperiod\bibinitdelim W\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{DSCAJMWKVCKTOADDHHPCSSREHAW1}
+    \strng{fullhash}{DSCAJMWKVCKTOADDHHPCSSREHAW1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{abstract}{%
+    Recent advances in quantum information processing with trapped ions have
+  demonstrated the need for new ion trap architectures capable of holding and
+  manipulating chains of many (>10) ions. Here we present the design and
+  detailed characterization of a new linear trap, microfabricated with scalable
+  complementary metal-oxide-semiconductor (CMOS) techniques, that is
+  well-suited to this challenge. Forty-four individually controlled dc
+  electrodes provide the many degrees of freedom required to construct
+  anharmonic potential wells, shuttle ions, merge and split ion chains,
+  precisely tune secular mode frequencies, and adjust the orientation of trap
+  axes. Microfabricated capacitors on dc electrodes suppress radio-frequency
+  pickup and excess micromotion, while a top-level ground layer simplifies
+  modeling of electric fields and protects trap structures underneath. A
+  localized aperture in the substrate provides access to the trapping region
+  from an oven below, permitting deterministic loading of particular
+  isotopic/elemental sequences via species-selective photoionization. The
+  shapes of the aperture and radio-frequency electrodes are optimized to
+  minimize perturbation of the trapping pseudopotential. Laboratory experiments
+  verify simulated potentials and characterize trapping lifetimes, stray
+  electric fields, and ion heating rates, while measurement and cancellation of
+  spatially-varying stray electric fields permits the formation of
+  nearly-equally spaced ion chains.%
+    }
+    \field{number}{7}
+    \field{pages}{073012}
+    \field{title}{Controlling trapping potentials and stray electric fields in
+  a microfabricated ion trap through design and compensation}
+    \verb{url}
+    \verb http://stacks.iop.org/1367-2630/14/i=7/a=073012
+    \endverb
+    \field{volume}{14}
+    \field{journaltitle}{New Journal of Physics}
+    \field{year}{2012}
+  \endentry
+
+  \entry{BorregaardSorensen}{article}{}
+    \name{author}{2}{}{%
+      {{hash=BJ}{%
+         family={Borregaard},
+         familyi={B\bibinitperiod},
+         given={J.},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=SAS}{%
+         family={S\o{}rensen},
+         familyi={S\bibinitperiod},
+         given={A.\bibnamedelima S.},
+         giveni={A\bibinitperiod\bibinitdelim S\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {American Physical Society}%
+    }
+    \strng{namehash}{BJSAS1}
+    \strng{fullhash}{BJSAS1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{doi}
+    \verb 10.1103/PhysRevLett.111.090802
+    \endverb
+    \field{issue}{9}
+    \field{pages}{090802}
+    \field{title}{Efficient Atomic Clocks Operated with Several Atomic
+  Ensembles}
+    \verb{url}
+    \verb http://link.aps.org/doi/10.1103/PhysRevLett.111.090802
+    \endverb
+    \field{volume}{111}
+    \field{journaltitle}{Phys. Rev. Lett.}
+    \field{year}{2013}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{Wineland98.NIST.103.259}{article}{}
+    \name{author}{6}{}{%
+      {{hash=WD}{%
+         family={Wineland},
+         familyi={W\bibinitperiod},
+         given={DJ},
+         giveni={D\bibinitperiod},
+      }}%
+      {{hash=LD}{%
+         family={Leibfried},
+         familyi={L\bibinitperiod},
+         given={D},
+         giveni={D},
+      }}%
+      {{hash=MD}{%
+         family={Meekhof},
+         familyi={M\bibinitperiod},
+         given={DM},
+         giveni={D\bibinitperiod},
+      }}%
+      {{hash=KB}{%
+         family={King},
+         familyi={K\bibinitperiod},
+         given={BE},
+         giveni={B\bibinitperiod},
+      }}%
+      {{hash=MC}{%
+         family={Monroe},
+         familyi={M\bibinitperiod},
+         given={C},
+         giveni={C},
+      }}%
+      {{hash=IW}{%
+         family={Itano},
+         familyi={I\bibinitperiod},
+         given={WM},
+         giveni={W\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{WDLDMDKBMCIW1}
+    \strng{fullhash}{WDLDMDKBMCIW1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{number}{quant-ph/9710025}
+    \field{pages}{259}
+    \field{title}{Experimental issues in coherent quantum-state manipulation of
+  trapped atomic ions}
+    \field{volume}{103}
+    \field{journaltitle}{J. Res. Nat. Bureau Stand.}
+    \field{year}{1998}
+  \endentry
+
+  \entry{Leibfried03.RMP.75.281}{article}{}
+    \name{author}{4}{}{%
+      {{hash=LD}{%
+         family={Leibfried},
+         familyi={L\bibinitperiod},
+         given={D.},
+         giveni={D\bibinitperiod},
+      }}%
+      {{hash=BR}{%
+         family={Blatt},
+         familyi={B\bibinitperiod},
+         given={R.},
+         giveni={R\bibinitperiod},
+      }}%
+      {{hash=MC}{%
+         family={Monroe},
+         familyi={M\bibinitperiod},
+         given={C.},
+         giveni={C\bibinitperiod},
+      }}%
+      {{hash=WD}{%
+         family={Wineland},
+         familyi={W\bibinitperiod},
+         given={D.},
+         giveni={D\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {American Physical Society}%
+    }
+    \strng{namehash}{LDBRMCWD1}
+    \strng{fullhash}{LDBRMCWD1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{doi}
+    \verb 10.1103/RevModPhys.75.281
+    \endverb
+    \field{issue}{1}
+    \field{pages}{281\bibrangedash 324}
+    \field{title}{Quantum dynamics of single trapped ions}
+    \verb{url}
+    \verb http://link.aps.org/doi/10.1103/RevModPhys.75.281
+    \endverb
+    \field{volume}{75}
+    \field{journaltitle}{Rev. Mod. Phys.}
+    \field{year}{2003}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{Häffner2008155}{article}{}
+    \name{author}{3}{}{%
+      {{hash=HH}{%
+         family={Häffner},
+         familyi={H\bibinitperiod},
+         given={H.},
+         giveni={H\bibinitperiod},
+      }}%
+      {{hash=RC}{%
+         family={Roos},
+         familyi={R\bibinitperiod},
+         given={C.F.},
+         giveni={C\bibinitperiod},
+      }}%
+      {{hash=BR}{%
+         family={Blatt},
+         familyi={B\bibinitperiod},
+         given={R.},
+         giveni={R\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{HHRCBR1}
+    \strng{fullhash}{HHRCBR1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{doi}
+    \verb http://dx.doi.org/10.1016/j.physrep.2008.09.003
+    \endverb
+    \field{issn}{0370-1573}
+    \field{number}{4}
+    \field{pages}{155 \bibrangedash  203}
+    \field{title}{Quantum computing with trapped ions}
+    \verb{url}
+    \verb http://www.sciencedirect.com/science/article/pii/S0370157308003463
+    \endverb
+    \field{volume}{469}
+    \field{journaltitle}{Physics Reports}
+    \field{year}{2008}
+  \endentry
+
+  \entry{Roos00.Thesis}{thesis}{}
+    \name{author}{1}{}{%
+      {{hash=RC}{%
+         family={Roos},
+         familyi={R\bibinitperiod},
+         given={Christian},
+         giveni={C\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{RC1}
+    \strng{fullhash}{RC1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{title}{Controlling the quantum state of trapped ions}
+    \list{institution}{1}{%
+      {Universit{\"a}t Innsbruck}%
+    }
+    \field{type}{phdthesis}
+    \field{year}{2000}
+  \endentry
+
+  \entry{Blatt2012}{article}{}
+    \name{author}{2}{}{%
+      {{hash=BR}{%
+         family={Blatt},
+         familyi={B\bibinitperiod},
+         given={R.},
+         giveni={R\bibinitperiod},
+      }}%
+      {{hash=RCF}{%
+         family={Roos},
+         familyi={R\bibinitperiod},
+         given={C.\bibnamedelima F.},
+         giveni={C\bibinitperiod\bibinitdelim F\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Nature Publishing Group}%
+    }
+    \strng{namehash}{BRRCF1}
+    \strng{fullhash}{BRRCF1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{doi}
+    \verb 10.1038/nphys2252
+    \endverb
+    \field{issn}{1745-2473}
+    \field{number}{4}
+    \field{pages}{277\bibrangedash 284}
+    \field{title}{Quantum simulations with trapped ions}
+    \verb{url}
+    \verb http://dx.doi.org/10.1038/nphys2252
+    \endverb
+    \field{volume}{8}
+    \field{journaltitle}{Nat Phys}
+    \field{year}{2012}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{RevModPhys.87.637}{article}{}
+    \name{author}{5}{}{%
+      {{hash=LAD}{%
+         family={Ludlow},
+         familyi={L\bibinitperiod},
+         given={Andrew\bibnamedelima D.},
+         giveni={A\bibinitperiod\bibinitdelim D\bibinitperiod},
+      }}%
+      {{hash=BMM}{%
+         family={Boyd},
+         familyi={B\bibinitperiod},
+         given={Martin\bibnamedelima M.},
+         giveni={M\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+      {{hash=YJ}{%
+         family={Ye},
+         familyi={Y\bibinitperiod},
+         given={Jun},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=PE}{%
+         family={Peik},
+         familyi={P\bibinitperiod},
+         given={E.},
+         giveni={E\bibinitperiod},
+      }}%
+      {{hash=SPO}{%
+         family={Schmidt},
+         familyi={S\bibinitperiod},
+         given={P.\bibnamedelima O.},
+         giveni={P\bibinitperiod\bibinitdelim O\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {American Physical Society}%
+    }
+    \strng{namehash}{LADBMMYJPESPO1}
+    \strng{fullhash}{LADBMMYJPESPO1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{doi}
+    \verb 10.1103/RevModPhys.87.637
+    \endverb
+    \field{issue}{2}
+    \field{pages}{637\bibrangedash 701}
+    \field{title}{Optical atomic clocks}
+    \verb{url}
+    \verb http://link.aps.org/doi/10.1103/RevModPhys.87.637
+    \endverb
+    \field{volume}{87}
+    \field{journaltitle}{Rev. Mod. Phys.}
+    \field{year}{2015}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{Champenois2004298}{article}{}
+    \name{author}{7}{}{%
+      {{hash=CC}{%
+         family={Champenois},
+         familyi={C\bibinitperiod},
+         given={C.},
+         giveni={C\bibinitperiod},
+      }}%
+      {{hash=HM}{%
+         family={Houssin},
+         familyi={H\bibinitperiod},
+         given={M.},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=LC}{%
+         family={Lisowski},
+         familyi={L\bibinitperiod},
+         given={C.},
+         giveni={C\bibinitperiod},
+      }}%
+      {{hash=KM}{%
+         family={Knoop},
+         familyi={K\bibinitperiod},
+         given={M.},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=HG}{%
+         family={Hagel},
+         familyi={H\bibinitperiod},
+         given={G.},
+         giveni={G\bibinitperiod},
+      }}%
+      {{hash=VM}{%
+         family={Vedel},
+         familyi={V\bibinitperiod},
+         given={M.},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=VF}{%
+         family={Vedel},
+         familyi={V\bibinitperiod},
+         given={F.},
+         giveni={F\bibinitperiod},
+      }}%
+    }
+    \keyw{Optical frequency standard}
+    \strng{namehash}{CCHMLCKMHGVMVF1}
+    \strng{fullhash}{CCHMLCKMHGVMVF1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{abstract}{%
+    The frequency stability of an optical frequency standard at 729 nm, based
+  on a single calcium ion, is numerically studied. It is investigated through
+  the Allan deviation, whose minimum is estimated to reach σ y ( τ ) ≈ 2.5
+  × 10 − 15 / τ with τ the integration time. The systematic frequency
+  shifts have been calculated and lead to an achievable relative uncertainty of
+  ± 4 × 10 − 16 , supposing the use of the odd isotope 43Ca+ and a vessel
+  cooled to 77 K.%
+    }
+    \verb{doi}
+    \verb https://doi.org/10.1016/j.physleta.2004.09.008
+    \endverb
+    \field{issn}{0375-9601}
+    \field{number}{5}
+    \field{pages}{298 \bibrangedash  311}
+    \field{title}{Evaluation of the ultimate performances of a Ca+ single-ion
+  frequency standard}
+    \verb{url}
+    \verb http://www.sciencedirect.com/science/article/pii/S0375960104012332
+    \endverb
+    \field{volume}{331}
+    \field{journaltitle}{Physics Letters A}
+    \field{year}{2004}
+  \endentry
+
+  \entry{Doppler}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=CTC}{%
+         family={Cohen-Tannoudji},
+         familyi={C\bibinitperiod-T\bibinitperiod},
+         given={C.},
+         giveni={C\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Elsevier Science Publishers B.V.}%
+    }
+    \strng{namehash}{CTC1}
+    \strng{fullhash}{CTC1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{booktitle}{Encyclopedia of RF and Microwave Engineering}
+    \field{title}{Atomic Motion in Laser Light}
+    \field{year}{1992}
+  \endentry
+
+  \entry{PhysRevA.20.1521}{article}{}
+    \name{author}{2}{}{%
+      {{hash=WDJ}{%
+         family={Wineland},
+         familyi={W\bibinitperiod},
+         given={D.\bibnamedelima J.},
+         giveni={D\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+      {{hash=IWM}{%
+         family={Itano},
+         familyi={I\bibinitperiod},
+         given={Wayne\bibnamedelima M.},
+         giveni={W\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {American Physical Society}%
+    }
+    \strng{namehash}{WDJIWM1}
+    \strng{fullhash}{WDJIWM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{doi}
+    \verb 10.1103/PhysRevA.20.1521
+    \endverb
+    \field{issue}{4}
+    \field{pages}{1521\bibrangedash 1540}
+    \field{title}{Laser cooling of atoms}
+    \verb{url}
+    \verb https://link.aps.org/doi/10.1103/PhysRevA.20.1521
+    \endverb
+    \field{volume}{20}
+    \field{journaltitle}{Phys. Rev. A}
+    \field{year}{1979}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{RevModPhys.58.699}{article}{}
+    \name{author}{1}{}{%
+      {{hash=SS}{%
+         family={Stenholm},
+         familyi={S\bibinitperiod},
+         given={Stig},
+         giveni={S\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {American Physical Society}%
+    }
+    \keyw{MOT}
+    \strng{namehash}{SS1}
+    \strng{fullhash}{SS1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{doi}
+    \verb 10.1103/RevModPhys.58.699
+    \endverb
+    \field{number}{3}
+    \field{pages}{699\bibrangedash 739}
+    \field{title}{The semiclassical theory of laser cooling}
+    \verb{url}
+    \verb http://prola.aps.org/abstract/RMP/v58/i3/p699_1
+    \endverb
+    \field{volume}{58}
+    \field{journaltitle}{Rev. Mod. Phys.}
+    \field{month}{07}
+    \field{year}{1986}
+  \endentry
+
+  \entry{Berkeland98.JAP.83.5025}{article}{}
+    \name{author}{5}{}{%
+      {{hash=BDJ}{%
+         family={Berkeland},
+         familyi={B\bibinitperiod},
+         given={D.\bibnamedelima J.},
+         giveni={D\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+      {{hash=MJD}{%
+         family={Miller},
+         familyi={M\bibinitperiod},
+         given={J.\bibnamedelima D.},
+         giveni={J\bibinitperiod\bibinitdelim D\bibinitperiod},
+      }}%
+      {{hash=BJC}{%
+         family={Bergquist},
+         familyi={B\bibinitperiod},
+         given={J.\bibnamedelima C.},
+         giveni={J\bibinitperiod\bibinitdelim C\bibinitperiod},
+      }}%
+      {{hash=IWM}{%
+         family={Itano},
+         familyi={I\bibinitperiod},
+         given={W.\bibnamedelima M.},
+         giveni={W\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+      {{hash=WDJ}{%
+         family={Wineland},
+         familyi={W\bibinitperiod},
+         given={D.\bibnamedelima J.},
+         giveni={D\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+    }
+    \keyw{Alternating current power transmission, Doppler effect, Electric
+  fields, Fluorescence}
+    \strng{namehash}{BDJMJDBJCIWMWDJ1}
+    \strng{fullhash}{BDJMJDBJCIWMWDJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{abstract}{%
+    Micromotion of ions in Paul traps has several adverse effects, including
+  alterations of atomic transition line shapes, significant second-order
+  Doppler shifts in high-accuracy studies, and limited confinement time in the
+  absence of cooling. The acelectric field that causes the micromotion may also
+  induce significant Stark shifts in atomic transitions. We describe three
+  methods of detecting micromotion. The first relies on the change of the
+  average ion position as the trap potentials are changed. The second monitors
+  the amplitude of the sidebands of a narrow atomic transition, caused by the
+  first-order Doppler shift due to the micromotion. The last technique detects
+  the Doppler shift induced modulation of the fluorescence rate of a broad
+  atomic transition. We discuss the detection sensitivity of each method to
+  Doppler and Stark shifts, and show experimental results using the last
+  technique.%
+    }
+    \verb{doi}
+    \verb 10.1063/1.367318
+    \endverb
+    \field{issn}{0021-8979, 1089-7550}
+    \field{number}{10}
+    \field{pages}{5025\bibrangedash 5033}
+    \field{title}{Minimization of ion micromotion in a Paul trap}
+    \verb{url}
+    \verb http://scitation.aip.org/content/aip/journal/jap/83/10/10.1063/1.3673
+    \verb 18
+    \endverb
+    \field{volume}{83}
+    \field{journaltitle}{J. Appl. Phys.}
+    \field{year}{1998}
+    \field{urlday}{10}
+    \field{urlmonth}{06}
+    \field{urlyear}{2015}
+  \endentry
+
+  \entry{doi:10.1063/1.4930037}{article}{}
+    \name{author}{4}{}{%
+      {{hash=KJ}{%
+         family={Keller},
+         familyi={K\bibinitperiod},
+         given={J.},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=PHL}{%
+         family={Partner},
+         familyi={P\bibinitperiod},
+         given={H.\bibnamedelima L.},
+         giveni={H\bibinitperiod\bibinitdelim L\bibinitperiod},
+      }}%
+      {{hash=BT}{%
+         family={Burgermeister},
+         familyi={B\bibinitperiod},
+         given={T.},
+         giveni={T\bibinitperiod},
+      }}%
+      {{hash=MTE}{%
+         family={Mehlstäubler},
+         familyi={M\bibinitperiod},
+         given={T.\bibnamedelima E.},
+         giveni={T\bibinitperiod\bibinitdelim E\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{KJPHLBTMTE1}
+    \strng{fullhash}{KJPHLBTMTE1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{doi}
+    \verb 10.1063/1.4930037
+    \endverb
+    \verb{eprint}
+    \verb http://dx.doi.org/10.1063/1.4930037
+    \endverb
+    \field{number}{10}
+    \field{pages}{104501}
+    \field{title}{Precise determination of micromotion for trapped-ion optical
+  clocks}
+    \verb{url}
+    \verb http://dx.doi.org/10.1063/1.4930037
+    \endverb
+    \field{volume}{118}
+    \field{journaltitle}{Journal of Applied Physics}
+    \field{year}{2015}
+  \endentry
+
+  \entry{FiveWire}{article}{}
+    \name{author}{8}{}{%
+      {{hash=CJ}{%
+         family={Chiaverini},
+         familyi={C\bibinitperiod},
+         given={J.},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=BR}{%
+         family={Blakestad},
+         familyi={B\bibinitperiod},
+         given={R.B.},
+         giveni={R\bibinitperiod},
+      }}%
+      {{hash=BJ}{%
+         family={Britton},
+         familyi={B\bibinitperiod},
+         given={J.},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=JJD}{%
+         family={Jost},
+         familyi={J\bibinitperiod},
+         given={J.\bibnamedelima D.},
+         giveni={J\bibinitperiod\bibinitdelim D\bibinitperiod},
+      }}%
+      {{hash=LC}{%
+         family={Langer},
+         familyi={L\bibinitperiod},
+         given={C.},
+         giveni={C\bibinitperiod},
+      }}%
+      {{hash=LD}{%
+         family={Leibfried},
+         familyi={L\bibinitperiod},
+         given={D.},
+         giveni={D\bibinitperiod},
+      }}%
+      {{hash=OR}{%
+         family={Ozeri},
+         familyi={O\bibinitperiod},
+         given={R.},
+         giveni={R\bibinitperiod},
+      }}%
+      {{hash=WDJ}{%
+         family={Wineland},
+         familyi={W\bibinitperiod},
+         given={D.\bibnamedelima J.},
+         giveni={D\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{CJBRBJJJDLCLDORWDJ1}
+    \strng{fullhash}{CJBRBJJJDLCLDORWDJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{pages}{419\bibrangedash 439}
+    \field{title}{Surface-Electrode Architecture for Ion-Trap Quantum
+  Information Processing}
+    \verb{url}
+    \verb http://arxiv.org/abs/quant-ph/0501147
+    \endverb
+    \field{volume}{6}
+    \field{journaltitle}{Quant. Inf. Comp.}
+    \field{year}{2005}
+  \endentry
+
+  \entry{Gulde2001}{article}{}
+    \name{author}{6}{}{%
+      {{hash=GS}{%
+         family={Gulde},
+         familyi={G\bibinitperiod},
+         given={S.},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=RD}{%
+         family={Rotter},
+         familyi={R\bibinitperiod},
+         given={D.},
+         giveni={D\bibinitperiod},
+      }}%
+      {{hash=BP}{%
+         family={Barton},
+         familyi={B\bibinitperiod},
+         given={P.},
+         giveni={P\bibinitperiod},
+      }}%
+      {{hash=SKF}{%
+         family={Schmidt-Kaler},
+         familyi={S\bibinitperiod-K\bibinitperiod},
+         given={F.},
+         giveni={F\bibinitperiod},
+      }}%
+      {{hash=BR}{%
+         family={Blatt},
+         familyi={B\bibinitperiod},
+         given={R.},
+         giveni={R\bibinitperiod},
+      }}%
+      {{hash=HW}{%
+         family={Hogervorst},
+         familyi={H\bibinitperiod},
+         given={W.},
+         giveni={W\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{GSRDBPSKFBRHW1}
+    \strng{fullhash}{GSRDBPSKFBRHW1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{abstract}{%
+    We report a simple and efficient method to load a Paul trap with Ca+ ions.
+  A beam of neutral atomic calcium is ionized in a two-step photo-ionization
+  process using uv-diode lasers near 423 nm and 390 nm. Photo-ionization of a
+  calcium beam for loading a Paul trap has first been demonstrated by
+  Kjaergaard et al. The advantages of our method are the use of cheap and
+  easily handled diode-laser systems and the large cross section for field
+  ionization when exciting high-lying Rydberg states. Finally, we discuss the
+  advantages of photo-ionization for ion generation compared to loading by
+  electron bombardment.%
+    }
+    \verb{doi}
+    \verb 10.1007/s003400100749
+    \endverb
+    \field{issn}{1432-0649}
+    \field{number}{8}
+    \field{pages}{861\bibrangedash 863}
+    \field{title}{Simple and efficient photo-ionization loading of ions for
+  precision ion-trapping experiments}
+    \verb{url}
+    \verb http://dx.doi.org/10.1007/s003400100749
+    \endverb
+    \field{volume}{73}
+    \field{journaltitle}{Applied Physics B}
+    \field{year}{2001}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{doi:10.1063/1.4917385}{article}{}
+    \name{author}{14}{}{%
+      {{hash=GND}{%
+         family={Guise},
+         familyi={G\bibinitperiod},
+         given={Nicholas\bibnamedelima D.},
+         giveni={N\bibinitperiod\bibinitdelim D\bibinitperiod},
+      }}%
+      {{hash=FSD}{%
+         family={Fallek},
+         familyi={F\bibinitperiod},
+         given={Spencer\bibnamedelima D.},
+         giveni={S\bibinitperiod\bibinitdelim D\bibinitperiod},
+      }}%
+      {{hash=SKE}{%
+         family={Stevens},
+         familyi={S\bibinitperiod},
+         given={Kelly\bibnamedelima E.},
+         giveni={K\bibinitperiod\bibinitdelim E\bibinitperiod},
+      }}%
+      {{hash=BKR}{%
+         family={Brown},
+         familyi={B\bibinitperiod},
+         given={K.\bibnamedelima R.},
+         giveni={K\bibinitperiod\bibinitdelim R\bibinitperiod},
+      }}%
+      {{hash=VC}{%
+         family={Volin},
+         familyi={V\bibinitperiod},
+         given={Curtis},
+         giveni={C\bibinitperiod},
+      }}%
+      {{hash=HAW}{%
+         family={Harter},
+         familyi={H\bibinitperiod},
+         given={Alexa\bibnamedelima W.},
+         giveni={A\bibinitperiod\bibinitdelim W\bibinitperiod},
+      }}%
+      {{hash=AJM}{%
+         family={Amini},
+         familyi={A\bibinitperiod},
+         given={Jason\bibnamedelima M.},
+         giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+      {{hash=HRE}{%
+         family={Higashi},
+         familyi={H\bibinitperiod},
+         given={Robert\bibnamedelima E.},
+         giveni={R\bibinitperiod\bibinitdelim E\bibinitperiod},
+      }}%
+      {{hash=LST}{%
+         family={Lu},
+         familyi={L\bibinitperiod},
+         given={Son\bibnamedelima Thai},
+         giveni={S\bibinitperiod\bibinitdelim T\bibinitperiod},
+      }}%
+      {{hash=CHM}{%
+         family={Chanhvongsak},
+         familyi={C\bibinitperiod},
+         given={Helen\bibnamedelima M.},
+         giveni={H\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+      {{hash=NTA}{%
+         family={Nguyen},
+         familyi={N\bibinitperiod},
+         given={Thi\bibnamedelima A.},
+         giveni={T\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+      {{hash=MMS}{%
+         family={Marcus},
+         familyi={M\bibinitperiod},
+         given={Matthew\bibnamedelima S.},
+         giveni={M\bibinitperiod\bibinitdelim S\bibinitperiod},
+      }}%
+      {{hash=OTR}{%
+         family={Ohnstein},
+         familyi={O\bibinitperiod},
+         given={Thomas\bibnamedelima R.},
+         giveni={T\bibinitperiod\bibinitdelim R\bibinitperiod},
+      }}%
+      {{hash=YDW}{%
+         family={Youngner},
+         familyi={Y\bibinitperiod},
+         given={Daniel\bibnamedelima W.},
+         giveni={D\bibinitperiod\bibinitdelim W\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{GNDFSDSKEBKRVCHAWAJMHRELSTCHMNTAMMSOTRYDW1}
+    \strng{fullhash}{GNDFSDSKEBKRVCHAWAJMHRELSTCHMNTAMMSOTRYDW1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{doi}
+    \verb 10.1063/1.4917385
+    \endverb
+    \verb{eprint}
+    \verb http://dx.doi.org/10.1063/1.4917385
+    \endverb
+    \field{number}{17}
+    \field{pages}{174901}
+    \field{title}{Ball-grid array architecture for microfabricated ion traps}
+    \verb{url}
+    \verb http://dx.doi.org/10.1063/1.4917385
+    \endverb
+    \field{volume}{117}
+    \field{journaltitle}{Journal of Applied Physics}
+    \field{year}{2015}
+  \endentry
+
+  \entry{PhysRevLett.96.253003}{article}{}
+    \name{author}{16}{}{%
+      {{hash=SS}{%
+         family={Seidelin},
+         familyi={S\bibinitperiod},
+         given={S.},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=CJ}{%
+         family={Chiaverini},
+         familyi={C\bibinitperiod},
+         given={J.},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=RR}{%
+         family={Reichle},
+         familyi={R\bibinitperiod},
+         given={R.},
+         giveni={R\bibinitperiod},
+      }}%
+      {{hash=BJJ}{%
+         family={Bollinger},
+         familyi={B\bibinitperiod},
+         given={J.\bibnamedelima J.},
+         giveni={J\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+      {{hash=LD}{%
+         family={Leibfried},
+         familyi={L\bibinitperiod},
+         given={D.},
+         giveni={D\bibinitperiod},
+      }}%
+      {{hash=BJ}{%
+         family={Britton},
+         familyi={B\bibinitperiod},
+         given={J.},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=WJH}{%
+         family={Wesenberg},
+         familyi={W\bibinitperiod},
+         given={J.\bibnamedelima H.},
+         giveni={J\bibinitperiod\bibinitdelim H\bibinitperiod},
+      }}%
+      {{hash=BRB}{%
+         family={Blakestad},
+         familyi={B\bibinitperiod},
+         given={R.\bibnamedelima B.},
+         giveni={R\bibinitperiod\bibinitdelim B\bibinitperiod},
+      }}%
+      {{hash=ERJ}{%
+         family={Epstein},
+         familyi={E\bibinitperiod},
+         given={R.\bibnamedelima J.},
+         giveni={R\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+      {{hash=HDB}{%
+         family={Hume},
+         familyi={H\bibinitperiod},
+         given={D.\bibnamedelima B.},
+         giveni={D\bibinitperiod\bibinitdelim B\bibinitperiod},
+      }}%
+      {{hash=IWM}{%
+         family={Itano},
+         familyi={I\bibinitperiod},
+         given={W.\bibnamedelima M.},
+         giveni={W\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+      {{hash=JJD}{%
+         family={Jost},
+         familyi={J\bibinitperiod},
+         given={J.\bibnamedelima D.},
+         giveni={J\bibinitperiod\bibinitdelim D\bibinitperiod},
+      }}%
+      {{hash=LC}{%
+         family={Langer},
+         familyi={L\bibinitperiod},
+         given={C.},
+         giveni={C\bibinitperiod},
+      }}%
+      {{hash=OR}{%
+         family={Ozeri},
+         familyi={O\bibinitperiod},
+         given={R.},
+         giveni={R\bibinitperiod},
+      }}%
+      {{hash=SN}{%
+         family={Shiga},
+         familyi={S\bibinitperiod},
+         given={N.},
+         giveni={N\bibinitperiod},
+      }}%
+      {{hash=WDJ}{%
+         family={Wineland},
+         familyi={W\bibinitperiod},
+         given={D.\bibnamedelima J.},
+         giveni={D\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {American Physical Society}%
+    }
+    \strng{namehash}{SSCJRRBJJLDBJWJHBRBERJHDBIWMJJDLCORSNWDJ1}
+    \strng{fullhash}{SSCJRRBJJLDBJWJHBRBERJHDBIWMJJDLCORSNWDJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{doi}
+    \verb 10.1103/PhysRevLett.96.253003
+    \endverb
+    \field{issue}{25}
+    \field{pages}{253003}
+    \field{title}{Microfabricated Surface-Electrode Ion Trap for Scalable
+  Quantum Information Processing}
+    \verb{url}
+    \verb https://link.aps.org/doi/10.1103/PhysRevLett.96.253003
+    \endverb
+    \field{volume}{96}
+    \field{journaltitle}{Phys. Rev. Lett.}
+    \field{year}{2006}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{PhysRevA.76.033411}{article}{}
+    \name{author}{16}{}{%
+      {{hash=ERJ}{%
+         family={Epstein},
+         familyi={E\bibinitperiod},
+         given={R.\bibnamedelima J.},
+         giveni={R\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+      {{hash=SS}{%
+         family={Seidelin},
+         familyi={S\bibinitperiod},
+         given={S.},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=LD}{%
+         family={Leibfried},
+         familyi={L\bibinitperiod},
+         given={D.},
+         giveni={D\bibinitperiod},
+      }}%
+      {{hash=WJH}{%
+         family={Wesenberg},
+         familyi={W\bibinitperiod},
+         given={J.\bibnamedelima H.},
+         giveni={J\bibinitperiod\bibinitdelim H\bibinitperiod},
+      }}%
+      {{hash=BJJ}{%
+         family={Bollinger},
+         familyi={B\bibinitperiod},
+         given={J.\bibnamedelima J.},
+         giveni={J\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+      {{hash=AJM}{%
+         family={Amini},
+         familyi={A\bibinitperiod},
+         given={J.\bibnamedelima M.},
+         giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+      {{hash=BRB}{%
+         family={Blakestad},
+         familyi={B\bibinitperiod},
+         given={R.\bibnamedelima B.},
+         giveni={R\bibinitperiod\bibinitdelim B\bibinitperiod},
+      }}%
+      {{hash=BJ}{%
+         family={Britton},
+         familyi={B\bibinitperiod},
+         given={J.},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=HJP}{%
+         family={Home},
+         familyi={H\bibinitperiod},
+         given={J.\bibnamedelima P.},
+         giveni={J\bibinitperiod\bibinitdelim P\bibinitperiod},
+      }}%
+      {{hash=IWM}{%
+         family={Itano},
+         familyi={I\bibinitperiod},
+         given={W.\bibnamedelima M.},
+         giveni={W\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+      {{hash=JJD}{%
+         family={Jost},
+         familyi={J\bibinitperiod},
+         given={J.\bibnamedelima D.},
+         giveni={J\bibinitperiod\bibinitdelim D\bibinitperiod},
+      }}%
+      {{hash=KE}{%
+         family={Knill},
+         familyi={K\bibinitperiod},
+         given={E.},
+         giveni={E\bibinitperiod},
+      }}%
+      {{hash=LC}{%
+         family={Langer},
+         familyi={L\bibinitperiod},
+         given={C.},
+         giveni={C\bibinitperiod},
+      }}%
+      {{hash=OR}{%
+         family={Ozeri},
+         familyi={O\bibinitperiod},
+         given={R.},
+         giveni={R\bibinitperiod},
+      }}%
+      {{hash=SN}{%
+         family={Shiga},
+         familyi={S\bibinitperiod},
+         given={N.},
+         giveni={N\bibinitperiod},
+      }}%
+      {{hash=WDJ}{%
+         family={Wineland},
+         familyi={W\bibinitperiod},
+         given={D.\bibnamedelima J.},
+         giveni={D\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {American Physical Society}%
+    }
+    \strng{namehash}{ERJSSLDWJHBJJAJMBRBBJHJPIWMJJDKELCORSNWDJ1}
+    \strng{fullhash}{ERJSSLDWJHBJJAJMBRBBJHJPIWMJJDKELCORSNWDJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{doi}
+    \verb 10.1103/PhysRevA.76.033411
+    \endverb
+    \field{issue}{3}
+    \field{pages}{033411}
+    \field{title}{Simplified motional heating rate measurements of trapped
+  ions}
+    \verb{url}
+    \verb https://link.aps.org/doi/10.1103/PhysRevA.76.033411
+    \endverb
+    \field{volume}{76}
+    \field{journaltitle}{Phys. Rev. A}
+    \field{year}{2007}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{doi:10.1063/1.2337094}{article}{}
+    \name{author}{3}{}{%
+      {{hash=BZP}{%
+         family={Bohlouli-Zanjani},
+         familyi={B\bibinitperiod-Z\bibinitperiod},
+         given={P.},
+         giveni={P\bibinitperiod},
+      }}%
+      {{hash=AK}{%
+         family={Afrousheh},
+         familyi={A\bibinitperiod},
+         given={K.},
+         giveni={K\bibinitperiod},
+      }}%
+      {{hash=MJDD}{%
+         family={Martin},
+         familyi={M\bibinitperiod},
+         given={J.\bibnamedelima D.\bibnamedelima D.},
+         giveni={J\bibinitperiod\bibinitdelim D\bibinitperiod\bibinitdelim
+  D\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{BZPAKMJDD1}
+    \strng{fullhash}{BZPAKMJDD1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{doi}
+    \verb 10.1063/1.2337094
+    \endverb
+    \verb{eprint}
+    \verb http://dx.doi.org/10.1063/1.2337094
+    \endverb
+    \field{number}{9}
+    \field{pages}{093105}
+    \field{title}{Optical transfer cavity stabilization using current-modulated
+  injection-locked diode lasers}
+    \verb{url}
+    \verb http://dx.doi.org/10.1063/1.2337094
+    \endverb
+    \field{volume}{77}
+    \field{journaltitle}{Review of Scientific Instruments}
+    \field{year}{2006}
+  \endentry
+
+  \entry{doi:10.1119/1.1286663}{article}{}
+    \name{author}{1}{}{%
+      {{hash=BED}{%
+         family={Black},
+         familyi={B\bibinitperiod},
+         given={Eric\bibnamedelima D.},
+         giveni={E\bibinitperiod\bibinitdelim D\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{BED1}
+    \strng{fullhash}{BED1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{doi}
+    \verb 10.1119/1.1286663
+    \endverb
+    \verb{eprint}
+    \verb http://dx.doi.org/10.1119/1.1286663
+    \endverb
+    \field{number}{1}
+    \field{pages}{79\bibrangedash 87}
+    \field{title}{An introduction to Pound–Drever–Hall laser frequency
+  stabilization}
+    \verb{url}
+    \verb http://dx.doi.org/10.1119/1.1286663
+    \endverb
+    \field{volume}{69}
+    \field{journaltitle}{American Journal of Physics}
+    \field{year}{2001}
+  \endentry
+
+  \entry{Siverns2012}{article}{}
+    \name{author}{4}{}{%
+      {{hash=SJD}{%
+         family={Siverns},
+         familyi={S\bibinitperiod},
+         given={J.\bibnamedelima D.},
+         giveni={J\bibinitperiod\bibinitdelim D\bibinitperiod},
+      }}%
+      {{hash=SLR}{%
+         family={Simkins},
+         familyi={S\bibinitperiod},
+         given={L.\bibnamedelima R.},
+         giveni={L\bibinitperiod\bibinitdelim R\bibinitperiod},
+      }}%
+      {{hash=WS}{%
+         family={Weidt},
+         familyi={W\bibinitperiod},
+         given={S.},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=HWK}{%
+         family={Hensinger},
+         familyi={H\bibinitperiod},
+         given={W.\bibnamedelima K.},
+         giveni={W\bibinitperiod\bibinitdelim K\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{SJDSLRWSHWK1}
+    \strng{fullhash}{SJDSLRWSHWK1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{abstract}{%
+    Ions confined using a Paul trap require a stable, high voltage and low
+  noise radio frequency (RF) potential. We present a guide for the design and
+  construction of a helical coil resonator for a desired frequency that
+  maximises the quality factor for a set of experimental constraints. We
+  provide an in-depth analysis of the system formed from a shielded helical
+  coil and an ion trap by treating the system as a lumped element model. This
+  allows us to predict the resonant frequency and quality factor in terms of
+  the physical parameters of the resonator and the properties of the ion trap.
+  We also compare theoretical predictions with experimental data for different
+  resonators, and predict the voltage applied to the ion trap as a function of
+  the Q factor, input power and the properties of the resonant circuit.%
+    }
+    \verb{doi}
+    \verb 10.1007/s00340-011-4837-0
+    \endverb
+    \field{issn}{1432-0649}
+    \field{number}{4}
+    \field{pages}{921\bibrangedash 934}
+    \field{title}{On the application of radio frequency voltages to ion traps
+  via helical resonators}
+    \verb{url}
+    \verb http://dx.doi.org/10.1007/s00340-011-4837-0
+    \endverb
+    \field{volume}{107}
+    \field{journaltitle}{Applied Physics B}
+    \field{year}{2012}
+  \endentry
+
+  \entry{StandingWave}{article}{}
+    \name{author}{6}{}{%
+      {{hash=dTE}{%
+         family={deLaubenfels},
+         familyi={d\bibinitperiod},
+         given={Thomas\bibnamedelima E.},
+         giveni={T\bibinitperiod\bibinitdelim E\bibinitperiod},
+      }}%
+      {{hash=BKA}{%
+         family={Burkhardt},
+         familyi={B\bibinitperiod},
+         given={Karl\bibnamedelima A.},
+         giveni={K\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+      {{hash=VG}{%
+         family={Vittorini},
+         familyi={V\bibinitperiod},
+         given={Grahame},
+         giveni={G\bibinitperiod},
+      }}%
+      {{hash=MJT}{%
+         family={Merrill},
+         familyi={M\bibinitperiod},
+         given={J.\bibnamedelima True},
+         giveni={J\bibinitperiod\bibinitdelim T\bibinitperiod},
+      }}%
+      {{hash=BKR}{%
+         family={Brown},
+         familyi={B\bibinitperiod},
+         given={Kenneth\bibnamedelima R.},
+         giveni={K\bibinitperiod\bibinitdelim R\bibinitperiod},
+      }}%
+      {{hash=AJM}{%
+         family={Amini},
+         familyi={A\bibinitperiod},
+         given={Jason\bibnamedelima M.},
+         giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {American Physical Society}%
+    }
+    \strng{namehash}{dTEBKAVGMJTBKRAJM1}
+    \strng{fullhash}{dTEBKAVGMJTBKRAJM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{doi}
+    \verb 10.1103/PhysRevA.92.061402
+    \endverb
+    \field{issue}{6}
+    \field{pages}{061402}
+    \field{title}{Modulating carrier and sideband coupling strengths in a
+  standing-wave gate beam}
+    \verb{url}
+    \verb http://link.aps.org/doi/10.1103/PhysRevA.92.061402
+    \endverb
+    \field{volume}{92}
+    \field{journaltitle}{Phys. Rev. A}
+    \field{year}{2015}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{Guise15.JAP.117.174901}{article}{}
+    \name{author}{14}{}{%
+      {{hash=GND}{%
+         family={Guise},
+         familyi={G\bibinitperiod},
+         given={Nicholas\bibnamedelima D.},
+         giveni={N\bibinitperiod\bibinitdelim D\bibinitperiod},
+      }}%
+      {{hash=FSD}{%
+         family={Fallek},
+         familyi={F\bibinitperiod},
+         given={Spencer\bibnamedelima D.},
+         giveni={S\bibinitperiod\bibinitdelim D\bibinitperiod},
+      }}%
+      {{hash=SKE}{%
+         family={Stevens},
+         familyi={S\bibinitperiod},
+         given={Kelly\bibnamedelima E.},
+         giveni={K\bibinitperiod\bibinitdelim E\bibinitperiod},
+      }}%
+      {{hash=BKR}{%
+         family={Brown},
+         familyi={B\bibinitperiod},
+         given={K.\bibnamedelima R.},
+         giveni={K\bibinitperiod\bibinitdelim R\bibinitperiod},
+      }}%
+      {{hash=VC}{%
+         family={Volin},
+         familyi={V\bibinitperiod},
+         given={Curtis},
+         giveni={C\bibinitperiod},
+      }}%
+      {{hash=HAW}{%
+         family={Harter},
+         familyi={H\bibinitperiod},
+         given={Alexa\bibnamedelima W.},
+         giveni={A\bibinitperiod\bibinitdelim W\bibinitperiod},
+      }}%
+      {{hash=AJM}{%
+         family={Amini},
+         familyi={A\bibinitperiod},
+         given={Jason\bibnamedelima M.},
+         giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+      {{hash=HRE}{%
+         family={Higashi},
+         familyi={H\bibinitperiod},
+         given={Robert\bibnamedelima E.},
+         giveni={R\bibinitperiod\bibinitdelim E\bibinitperiod},
+      }}%
+      {{hash=LST}{%
+         family={Lu},
+         familyi={L\bibinitperiod},
+         given={Son\bibnamedelima Thai},
+         giveni={S\bibinitperiod\bibinitdelim T\bibinitperiod},
+      }}%
+      {{hash=CHM}{%
+         family={Chanhvongsak},
+         familyi={C\bibinitperiod},
+         given={Helen\bibnamedelima M.},
+         giveni={H\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+      {{hash=NTA}{%
+         family={Nguyen},
+         familyi={N\bibinitperiod},
+         given={Thi\bibnamedelima A.},
+         giveni={T\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+      {{hash=MMS}{%
+         family={Marcus},
+         familyi={M\bibinitperiod},
+         given={Matthew\bibnamedelima S.},
+         giveni={M\bibinitperiod\bibinitdelim S\bibinitperiod},
+      }}%
+      {{hash=OTR}{%
+         family={Ohnstein},
+         familyi={O\bibinitperiod},
+         given={Thomas\bibnamedelima R.},
+         giveni={T\bibinitperiod\bibinitdelim R\bibinitperiod},
+      }}%
+      {{hash=YDW}{%
+         family={Youngner},
+         familyi={Y\bibinitperiod},
+         given={Daniel\bibnamedelima W.},
+         giveni={D\bibinitperiod\bibinitdelim W\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{GNDFSDSKEBKRVCHAWAJMHRELSTCHMNTAMMSOTRYDW1}
+    \strng{fullhash}{GNDFSDSKEBKRVCHAWAJMHRELSTCHMNTAMMSOTRYDW1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{doi}
+    \verb http://dx.doi.org/10.1063/1.4917385
+    \endverb
+    \field{eid}{174901}
+    \field{number}{17}
+    \field{pages}{\bibrangedash }
+    \field{title}{Ball-grid array architecture for microfabricated ion traps}
+    \verb{url}
+    \verb http://scitation.aip.org/content/aip/journal/jap/117/17/10.1063/1.491
+    \verb 7385
+    \endverb
+    \field{volume}{117}
+    \field{journaltitle}{J. Appl. Phys.}
+    \field{year}{2015}
+  \endentry
+
+  \entry{FreqStands}{misc}{}
+    \name{author}{2}{}{%
+      {{hash=FPES}{%
+         family={Ferre-Pikal},
+         familyi={F\bibinitperiod-P\bibinitperiod},
+         given={Eva\bibnamedelima S.},
+         giveni={E\bibinitperiod\bibinitdelim S\bibinitperiod},
+      }}%
+      {{hash=WFL}{%
+         family={Walls},
+         familyi={W\bibinitperiod},
+         given={Fred\bibnamedelima L.},
+         giveni={F\bibinitperiod\bibinitdelim L\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {John Wiley & Sons, Inc.}%
+    }
+    \keyw{Frequency standards, frequency stability, accuracy, phase noise,
+  amplitude noise, frequency noise, Allan variace}
+    \strng{namehash}{FPESWFL1}
+    \strng{fullhash}{FPESWFL1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{booktitle}{Encyclopedia of RF and Microwave Engineering}
+    \verb{doi}
+    \verb 10.1002/0471654507.eme135
+    \endverb
+    \field{isbn}{9780471654506}
+    \field{title}{Frequency Standards, Characterization}
+    \verb{url}
+    \verb http://dx.doi.org/10.1002/0471654507.eme135
+    \endverb
+    \field{year}{1991}
+  \endentry
+
+  \entry{5570702}{article}{}
+    \name{author}{11}{}{%
+      {{hash=BJA}{%
+         family={Barnes},
+         familyi={B\bibinitperiod},
+         given={J.\bibnamedelima A.},
+         giveni={J\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+      {{hash=CAR}{%
+         family={Chi},
+         familyi={C\bibinitperiod},
+         given={A.\bibnamedelima R.},
+         giveni={A\bibinitperiod\bibinitdelim R\bibinitperiod},
+      }}%
+      {{hash=CLS}{%
+         family={Cutler},
+         familyi={C\bibinitperiod},
+         given={L.\bibnamedelima S.},
+         giveni={L\bibinitperiod\bibinitdelim S\bibinitperiod},
+      }}%
+      {{hash=HDJ}{%
+         family={Healey},
+         familyi={H\bibinitperiod},
+         given={D.\bibnamedelima J.},
+         giveni={D\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+      {{hash=LDB}{%
+         family={Leeson},
+         familyi={L\bibinitperiod},
+         given={D.\bibnamedelima B.},
+         giveni={D\bibinitperiod\bibinitdelim B\bibinitperiod},
+      }}%
+      {{hash=MTE}{%
+         family={McGunigal},
+         familyi={M\bibinitperiod},
+         given={T.\bibnamedelima E.},
+         giveni={T\bibinitperiod\bibinitdelim E\bibinitperiod},
+      }}%
+      {{hash=MJA}{%
+         family={Mullen},
+         familyi={M\bibinitperiod},
+         given={J.\bibnamedelima A.},
+         giveni={J\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+      {{hash=SWL}{%
+         family={Smith},
+         familyi={S\bibinitperiod},
+         given={W.\bibnamedelima L.},
+         giveni={W\bibinitperiod\bibinitdelim L\bibinitperiod},
+      }}%
+      {{hash=SRL}{%
+         family={Sydnor},
+         familyi={S\bibinitperiod},
+         given={R.\bibnamedelima L.},
+         giveni={R\bibinitperiod\bibinitdelim L\bibinitperiod},
+      }}%
+      {{hash=VRFC}{%
+         family={Vessot},
+         familyi={V\bibinitperiod},
+         given={R.\bibnamedelima F.\bibnamedelima C.},
+         giveni={R\bibinitperiod\bibinitdelim F\bibinitperiod\bibinitdelim
+  C\bibinitperiod},
+      }}%
+      {{hash=WGMR}{%
+         family={Winkler},
+         familyi={W\bibinitperiod},
+         given={G.\bibnamedelima M.\bibnamedelima R.},
+         giveni={G\bibinitperiod\bibinitdelim M\bibinitperiod\bibinitdelim
+  R\bibinitperiod},
+      }}%
+    }
+    \keyw{Noise;Stability analysis;Thermal stability;Time frequency
+  analysis;Time measurement}
+    \strng{namehash}{BJACARCLSHDJLDBMTEMJASWLSRLVRFCWGMR1}
+    \strng{fullhash}{BJACARCLSHDJLDBMTEMJASWLSRLVRFCWGMR1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{doi}
+    \verb 10.1109/TIM.1971.5570702
+    \endverb
+    \field{issn}{0018-9456}
+    \field{number}{2}
+    \field{pages}{105\bibrangedash 120}
+    \field{title}{Characterization of Frequency Stability}
+    \field{volume}{IM-20}
+    \field{journaltitle}{IEEE Transactions on Instrumentation and Measurement}
+    \field{year}{1971}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{Allan}{article}{}
+    \name{author}{1}{}{%
+      {{hash=ADW}{%
+         family={Allan},
+         familyi={A\bibinitperiod},
+         given={D.\bibnamedelima W.},
+         giveni={D\bibinitperiod\bibinitdelim W\bibinitperiod},
+      }}%
+    }
+    \keyw{1f noise;Atomic clocks;Fluctuations;Frequency;Masers;Measurement
+  standards;NIST;Sampling methods;Standards development;Statistics}
+    \strng{namehash}{ADW1}
+    \strng{fullhash}{ADW1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{doi}
+    \verb 10.1109/PROC.1966.4634
+    \endverb
+    \field{issn}{0018-9219}
+    \field{number}{2}
+    \field{pages}{221\bibrangedash 230}
+    \field{title}{Statistics of atomic frequency standards}
+    \field{volume}{54}
+    \field{journaltitle}{Proceedings of the IEEE}
+    \field{year}{1966}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{Rosenband}{article}{}
+    \name{author}{1}{}{%
+      {{hash=RT}{%
+         family={Rosenband},
+         familyi={R\bibinitperiod},
+         given={T.},
+         giveni={T\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{RT1}
+    \strng{fullhash}{RT1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{title}{Numerical test of few-qubit clock protocols}
+    \field{journaltitle}{arXiv preprint arXiv:1203.0288}
+    \field{year}{2012}
+  \endentry
+
+  \entry{Ramsey}{article}{}
+    \name{author}{1}{}{%
+      {{hash=RN}{%
+         family={Ramsey},
+         familyi={R\bibinitperiod},
+         given={N.F.},
+         giveni={N\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{RN1}
+    \strng{fullhash}{RN1}
+    \field{labelnamesource}{author}
+    \field{journaltitle}{Molecular Beams}
+    \field{year}{Oxford University Press, 1956}
+  \endentry
+
+  \entry{Itano1993}{article}{}
+    \name{author}{8}{}{%
+      {{hash=IWM}{%
+         family={Itano},
+         familyi={I\bibinitperiod},
+         given={W.\bibnamedelima M.},
+         giveni={W\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+      {{hash=BJC}{%
+         family={Bergquist},
+         familyi={B\bibinitperiod},
+         given={J.\bibnamedelima C.},
+         giveni={J\bibinitperiod\bibinitdelim C\bibinitperiod},
+      }}%
+      {{hash=BJJ}{%
+         family={Bollinger},
+         familyi={B\bibinitperiod},
+         given={J.\bibnamedelima J.},
+         giveni={J\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+      {{hash=GJM}{%
+         family={Gilligan},
+         familyi={G\bibinitperiod},
+         given={J.\bibnamedelima M.},
+         giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+      {{hash=HDJ}{%
+         family={Heinzen},
+         familyi={H\bibinitperiod},
+         given={D.\bibnamedelima J.},
+         giveni={D\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+      {{hash=MFL}{%
+         family={Moore},
+         familyi={M\bibinitperiod},
+         given={F.\bibnamedelima L.},
+         giveni={F\bibinitperiod\bibinitdelim L\bibinitperiod},
+      }}%
+      {{hash=RMG}{%
+         family={Raizen},
+         familyi={R\bibinitperiod},
+         given={M.\bibnamedelima G.},
+         giveni={M\bibinitperiod\bibinitdelim G\bibinitperiod},
+      }}%
+      {{hash=WDJ}{%
+         family={Wineland},
+         familyi={W\bibinitperiod},
+         given={D.\bibnamedelima J.},
+         giveni={D\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {American Physical Society}%
+    }
+    \strng{namehash}{IWMBJCBJJGJMHDJMFLRMGWDJ1}
+    \strng{fullhash}{IWMBJCBJJGJMHDJMFLRMGWDJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{doi}
+    \verb 10.1103/PhysRevA.47.3554
+    \endverb
+    \field{issue}{5}
+    \field{pages}{3554\bibrangedash 3570}
+    \field{title}{Quantum projection noise: Population fluctuations in
+  two-level systems}
+    \verb{url}
+    \verb http://link.aps.org/doi/10.1103/PhysRevA.47.3554
+    \endverb
+    \field{volume}{47}
+    \field{journaltitle}{Phys. Rev. A}
+    \field{year}{1993}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{BSsup}{article}{}
+    \name{author}{2}{}{%
+      {{hash=BJ}{%
+         family={Borregaard},
+         familyi={B\bibinitperiod},
+         given={J.},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=SAS}{%
+         family={S\o{}rensen},
+         familyi={S\bibinitperiod},
+         given={A.\bibnamedelima S.},
+         giveni={A\bibinitperiod\bibinitdelim S\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {American Physical Society}%
+    }
+    \strng{namehash}{BJSAS1}
+    \strng{fullhash}{BJSAS1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{doi}
+    \verb 10.1103/PhysRevLett.111.090802
+    \endverb
+    \field{issue}{9}
+    \field{pages}{090802}
+    \field{title}{Efficient Atomic Clocks Operated with Several Atomic
+  Ensembles}
+    \verb{url}
+    \verb http://link.aps.org/doi/10.1103/PhysRevLett.111.090802
+    \endverb
+    \field{volume}{111}
+    \field{journaltitle}{Phys. Rev. Lett.}
+    \field{year}{2013}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{StableLaser1}{article}{}
+    \name{author}{4}{}{%
+      {{hash=BM}{%
+         family={Bishof},
+         familyi={B\bibinitperiod},
+         given={M.},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=ZX}{%
+         family={Zhang},
+         familyi={Z\bibinitperiod},
+         given={X.},
+         giveni={X\bibinitperiod},
+      }}%
+      {{hash=MMJ}{%
+         family={Martin},
+         familyi={M\bibinitperiod},
+         given={M.\bibnamedelima J.},
+         giveni={M\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+      {{hash=YJ}{%
+         family={Ye},
+         familyi={Y\bibinitperiod},
+         given={Jun},
+         giveni={J\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {American Physical Society}%
+    }
+    \strng{namehash}{BMZXMMJYJ1}
+    \strng{fullhash}{BMZXMMJYJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{doi}
+    \verb 10.1103/PhysRevLett.111.093604
+    \endverb
+    \field{issue}{9}
+    \field{pages}{093604}
+    \field{title}{Optical Spectrum Analyzer with Quantum-Limited Noise Floor}
+    \verb{url}
+    \verb http://link.aps.org/doi/10.1103/PhysRevLett.111.093604
+    \endverb
+    \field{volume}{111}
+    \field{journaltitle}{Phys. Rev. Lett.}
+    \field{year}{2013}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{6174186}{article}{}
+    \name{author}{8}{}{%
+      {{hash=SMD}{%
+         family={Swallows},
+         familyi={S\bibinitperiod},
+         given={M.\bibnamedelima D.},
+         giveni={M\bibinitperiod\bibinitdelim D\bibinitperiod},
+      }}%
+      {{hash=MMJ}{%
+         family={Martin},
+         familyi={M\bibinitperiod},
+         given={M.\bibnamedelima J.},
+         giveni={M\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+      {{hash=BM}{%
+         family={Bishof},
+         familyi={B\bibinitperiod},
+         given={M.},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=BC}{%
+         family={Benko},
+         familyi={B\bibinitperiod},
+         given={C.},
+         giveni={C\bibinitperiod},
+      }}%
+      {{hash=LY}{%
+         family={Lin},
+         familyi={L\bibinitperiod},
+         given={Y.},
+         giveni={Y\bibinitperiod},
+      }}%
+      {{hash=BS}{%
+         family={Blatt},
+         familyi={B\bibinitperiod},
+         given={S.},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=RAM}{%
+         family={Rey},
+         familyi={R\bibinitperiod},
+         given={A.\bibnamedelima M.},
+         giveni={A\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+      {{hash=YJ}{%
+         family={Ye},
+         familyi={Y\bibinitperiod},
+         given={J.},
+         giveni={J\bibinitperiod},
+      }}%
+    }
+    \keyw{atomic clocks;strontium;JILA standard;Sr;fermionic atoms;laser
+  system;optical frequency standard;optical lattice clock;standard quantum
+  measurement;systematic frequency shifts;Atom optics;Atomic beams;Atomic
+  clocks;Laser stability;Lattices;Noise}
+    \strng{namehash}{SMDMMJBMBCLYBSRAMYJ1}
+    \strng{fullhash}{SMDMMJBMBCLYBSRAMYJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{doi}
+    \verb 10.1109/TUFFC.2012.2210
+    \endverb
+    \field{issn}{0885-3010}
+    \field{number}{3}
+    \field{pages}{416\bibrangedash 425}
+    \field{title}{Operating a 87Sr optical lattice clock with high precision
+  and at high density}
+    \field{volume}{59}
+    \field{journaltitle}{IEEE Transactions on Ultrasonics, Ferroelectrics, and
+  Frequency Control}
+    \field{year}{2012}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{McFerran:12}{article}{}
+    \name{author}{8}{}{%
+      {{hash=MJJ}{%
+         family={McFerran},
+         familyi={M\bibinitperiod},
+         given={J.\bibnamedelima J.},
+         giveni={J\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+      {{hash=aDVM}{%
+         family={{a}es},
+         familyi={a\bibinitperiod},
+         given={D.\bibnamedelima V.\bibnamedelima Magalh\},
+         giveni={D\bibinitperiod\bibinitdelim V\bibinitperiod\bibinitdelim
+  M\bibinitperiod},
+      }}%
+      {{hash=MC}{%
+         family={Mandache},
+         familyi={M\bibinitperiod},
+         given={C.},
+         giveni={C\bibinitperiod},
+      }}%
+      {{hash=MJ}{%
+         family={Millo},
+         familyi={M\bibinitperiod},
+         given={J.},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=ZW}{%
+         family={Zhang},
+         familyi={Z\bibinitperiod},
+         given={W.},
+         giveni={W\bibinitperiod},
+      }}%
+      {{hash=CYL}{%
+         family={Coq},
+         familyi={C\bibinitperiod},
+         given={Y.\bibnamedelima Le},
+         giveni={Y\bibinitperiod\bibinitdelim L\bibinitperiod},
+      }}%
+      {{hash=SG}{%
+         family={Santarelli},
+         familyi={S\bibinitperiod},
+         given={G.},
+         giveni={G\bibinitperiod},
+      }}%
+      {{hash=BS}{%
+         family={Bize},
+         familyi={B\bibinitperiod},
+         given={S.},
+         giveni={S\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {OSA}%
+    }
+    \keyw{Metrology; Spectroscopy, laser; Spectroscopy, ultraviolet}
+    \strng{namehash}{MJJaDVMMCMJZWCYLSGBS1}
+    \strng{fullhash}{MJJaDVMMCMJZWCYLSGBS1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{abstract}{%
+    With Hg199 atoms confined in an optical lattice trap in the Lamb--Dicke
+  regime, we obtain a spectral line at 265.6 nm for which the FWHM is ?15??Hz.
+  Here we lock an ultrastable laser to this ultranarrow S01?P03 clock
+  transition and achieve a fractional frequency instability of 5.4x10?15/? for
+  ??400??s. The highly stable laser light used for the atom probing is derived
+  from a 1062.6 nm fiber laser locked to an ultrastable optical cavity that
+  exhibits a mean drift rate of ?6.0x10?17??s?1 (?16.9??mHz?s?1 at 282 THz)
+  over a six month period. A comparison between two such lasers locked to
+  independent optical cavities shows a flicker noise limited fractional
+  frequency instability of 4x10?16 per cavity.%
+    }
+    \verb{doi}
+    \verb 10.1364/OL.37.003477
+    \endverb
+    \field{number}{17}
+    \field{pages}{3477\bibrangedash 3479}
+    \field{title}{Laser locking to the 199 Hg 1S0 3P0 clock transition with 5.4
+  x 10 -15 fractional frequency instability}
+    \verb{url}
+    \verb http://ol.osa.org/abstract.cfm?URI=ol-37-17-3477
+    \endverb
+    \field{volume}{37}
+    \field{journaltitle}{Opt. Lett.}
+    \field{year}{2012}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{KesslerT.2012}{article}{}
+    \name{author}{9}{}{%
+      {{hash=K}{%
+         family={KesslerT.},
+         familyi={K\bibinitperiod},
+      }}%
+      {{hash=H}{%
+         family={HagemannC.},
+         familyi={H\bibinitperiod},
+      }}%
+      {{hash=G}{%
+         family={GrebingC.},
+         familyi={G\bibinitperiod},
+      }}%
+      {{hash=L}{%
+         family={LegeroT.},
+         familyi={L\bibinitperiod},
+      }}%
+      {{hash=S}{%
+         family={SterrU.},
+         familyi={S\bibinitperiod},
+      }}%
+      {{hash=R}{%
+         family={RiehleF.},
+         familyi={R\bibinitperiod},
+      }}%
+      {{hash=JM}{%
+         family={J.},
+         familyi={J\bibinitperiod},
+         given={MartinM},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=C}{%
+         family={ChenL.},
+         familyi={C\bibinitperiod},
+      }}%
+      {{hash=Y}{%
+         family={YeJ.},
+         familyi={Y\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Nature Publishing Group}%
+    }
+    \strng{namehash}{KHGLSRJMCY1}
+    \strng{fullhash}{KHGLSRJMCY1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{doi}
+    \verb 10.1038/nphoton.2012.217
+    \endverb
+    \field{issn}{1749-4885}
+    \field{number}{10}
+    \field{pages}{687\bibrangedash 692}
+    \field{title}{A sub-40-mHz-linewidth laser based on a silicon
+  single-crystal optical cavity}
+    \verb{url}
+    \verb http://dx.doi.org/10.1038/nphoton.2012.217
+    \endverb
+    \field{volume}{6}
+    \field{journaltitle}{Nat Photon}
+    \field{year}{2012}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{Y.2011}{article}{}
+    \name{author}{7}{}{%
+      {{hash=YJ}{%
+         family={Y.},
+         familyi={Y\bibinitperiod},
+         given={JiangY},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=DL}{%
+         family={D.},
+         familyi={D\bibinitperiod},
+         given={LudlowA},
+         giveni={L\bibinitperiod},
+      }}%
+      {{hash=DL}{%
+         family={D.},
+         familyi={D\bibinitperiod},
+         given={LemkeN},
+         giveni={L\bibinitperiod},
+      }}%
+      {{hash=WF}{%
+         family={W.},
+         familyi={W\bibinitperiod},
+         given={FoxR},
+         giveni={F\bibinitperiod},
+      }}%
+      {{hash=AS}{%
+         family={A.},
+         familyi={A\bibinitperiod},
+         given={ShermanJ},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=MS}{%
+         family={MaL.-S.},
+         familyi={M\bibinitperiod-S\bibinitperiod},
+      }}%
+      {{hash=WO}{%
+         family={W.},
+         familyi={W\bibinitperiod},
+         given={OatesC},
+         giveni={O\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Nature Publishing Group}%
+    }
+    \strng{namehash}{YJDLDLWFASMSWO1}
+    \strng{fullhash}{YJDLDLWFASMSWO1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{doi}
+    \verb 10.1038/nphoton.2010.313
+    \endverb
+    \field{issn}{1749-4885}
+    \field{number}{3}
+    \field{pages}{158\bibrangedash 161}
+    \field{title}{Making optical atomic clocks more stable with 10-16-level
+  laser stabilization}
+    \verb{url}
+    \verb http://dx.doi.org/10.1038/nphoton.2010.313
+    \endverb
+    \field{volume}{5}
+    \field{journaltitle}{Nat Photon}
+    \field{year}{2011}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{PhysRevA.79.053829}{article}{}
+    \name{author}{10}{}{%
+      {{hash=MJ}{%
+         family={Millo},
+         familyi={M\bibinitperiod},
+         given={J.},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=MaDV}{%
+         family={Magalh\~aes},
+         familyi={M\bibinitperiod\bibinitdelim a\bibinitperiod},
+         given={D.\bibnamedelima V.},
+         giveni={D\bibinitperiod\bibinitdelim V\bibinitperiod},
+      }}%
+      {{hash=MC}{%
+         family={Mandache},
+         familyi={M\bibinitperiod},
+         given={C.},
+         giveni={C\bibinitperiod},
+      }}%
+      {{hash=LCY}{%
+         family={Le\bibnamedelima Coq},
+         familyi={L\bibinitperiod\bibinitdelim C\bibinitperiod},
+         given={Y.},
+         giveni={Y\bibinitperiod},
+      }}%
+      {{hash=EEML}{%
+         family={English},
+         familyi={E\bibinitperiod},
+         given={E.\bibnamedelima M.\bibnamedelima L.},
+         giveni={E\bibinitperiod\bibinitdelim M\bibinitperiod\bibinitdelim
+  L\bibinitperiod},
+      }}%
+      {{hash=WPG}{%
+         family={Westergaard},
+         familyi={W\bibinitperiod},
+         given={P.\bibnamedelima G.},
+         giveni={P\bibinitperiod\bibinitdelim G\bibinitperiod},
+      }}%
+      {{hash=LJ}{%
+         family={Lodewyck},
+         familyi={L\bibinitperiod},
+         given={J.},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=BS}{%
+         family={Bize},
+         familyi={B\bibinitperiod},
+         given={S.},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=LP}{%
+         family={Lemonde},
+         familyi={L\bibinitperiod},
+         given={P.},
+         giveni={P\bibinitperiod},
+      }}%
+      {{hash=SG}{%
+         family={Santarelli},
+         familyi={S\bibinitperiod},
+         given={G.},
+         giveni={G\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {American Physical Society}%
+    }
+    \strng{namehash}{MJMaDVMCLCYEEMLWPGLJBSLPSG1}
+    \strng{fullhash}{MJMaDVMCLCYEEMLWPGLJBSLPSG1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{doi}
+    \verb 10.1103/PhysRevA.79.053829
+    \endverb
+    \field{issue}{5}
+    \field{pages}{053829}
+    \field{title}{Ultrastable lasers based on vibration insensitive cavities}
+    \verb{url}
+    \verb http://link.aps.org/doi/10.1103/PhysRevA.79.053829
+    \endverb
+    \field{volume}{79}
+    \field{journaltitle}{Phys. Rev. A}
+    \field{year}{2009}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{Dubé2009}{article}{}
+    \name{author}{5}{}{%
+      {{hash=DP}{%
+         family={Dub{\'e}},
+         familyi={D\bibinitperiod},
+         given={P.},
+         giveni={P\bibinitperiod},
+      }}%
+      {{hash=MAA}{%
+         family={Madej},
+         familyi={M\bibinitperiod},
+         given={A.\bibnamedelima A.},
+         giveni={A\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+      {{hash=BJE}{%
+         family={Bernard},
+         familyi={B\bibinitperiod},
+         given={J.\bibnamedelima E.},
+         giveni={J\bibinitperiod\bibinitdelim E\bibinitperiod},
+      }}%
+      {{hash=ML}{%
+         family={Marmet},
+         familyi={M\bibinitperiod},
+         given={L.},
+         giveni={L\bibinitperiod},
+      }}%
+      {{hash=SAD}{%
+         family={Shiner},
+         familyi={S\bibinitperiod},
+         given={A.\bibnamedelima D'},
+         giveni={A\bibinitperiod\bibinitdelim D\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{DPMAABJEMLSAD1}
+    \strng{fullhash}{DPMAABJEMLSAD1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{abstract}{%
+    In this paper, we describe in detail a narrow linewidth and
+  frequency-stable laser source used to probe the 5s 2 S 1/2--4d 2 D 5/2 clock
+  transition of the 88Sr+ optical frequency standard. The performance of the
+  laser system is investigated with studies of its frequency drift rates and
+  with high resolution spectra of the 88Sr+ clock transition. The observed
+  short-term drift rates are typically in the range of 10 to 23 mHz/s, and the
+  current long-term drift rate is 13.9(3) mHz/s. The laser stability, after
+  subtraction of linear drifts, reaches 5x10−16 at an averaging time of 3000
+  s. This high level of stability is attributed for the most part to
+  stabilization of the reference cavity at the temperature where the
+  coefficient of linear thermal expansion crosses zero. An upper bound for the
+  laser linewidth is given by the observation of a Fourier-transform limited
+  resonance of 4.3 Hz ($\Delta$$\nu$/$\nu$=1x10−14) on the 88Sr+ clock
+  transition. The effective averaging time during the linewidth measurements
+  was about 100 s.%
+    }
+    \verb{doi}
+    \verb 10.1007/s00340-009-3390-6
+    \endverb
+    \field{issn}{1432-0649}
+    \field{number}{1}
+    \field{pages}{43\bibrangedash 54}
+    \field{title}{A narrow linewidth and frequency-stable probe laser source
+  for the 88 Sr+ single ion optical frequency standard}
+    \verb{url}
+    \verb http://dx.doi.org/10.1007/s00340-009-3390-6
+    \endverb
+    \field{volume}{95}
+    \field{journaltitle}{Applied Physics B}
+    \field{year}{2009}
+  \endentry
+
+  \entry{Ludlow:07}{article}{}
+    \name{author}{8}{}{%
+      {{hash=LAD}{%
+         family={Ludlow},
+         familyi={L\bibinitperiod},
+         given={A.\bibnamedelima D.},
+         giveni={A\bibinitperiod\bibinitdelim D\bibinitperiod},
+      }}%
+      {{hash=HX}{%
+         family={Huang},
+         familyi={H\bibinitperiod},
+         given={X.},
+         giveni={X\bibinitperiod},
+      }}%
+      {{hash=NM}{%
+         family={Notcutt},
+         familyi={N\bibinitperiod},
+         given={M.},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=ZWT}{%
+         family={Zanon-Willette},
+         familyi={Z\bibinitperiod-W\bibinitperiod},
+         given={T.},
+         giveni={T\bibinitperiod},
+      }}%
+      {{hash=FSM}{%
+         family={Foreman},
+         familyi={F\bibinitperiod},
+         given={S.\bibnamedelima M.},
+         giveni={S\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+      {{hash=BMM}{%
+         family={Boyd},
+         familyi={B\bibinitperiod},
+         given={M.\bibnamedelima M.},
+         giveni={M\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+      {{hash=BS}{%
+         family={Blatt},
+         familyi={B\bibinitperiod},
+         given={S.},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=YJ}{%
+         family={Ye},
+         familyi={Y\bibinitperiod},
+         given={J.},
+         giveni={J\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {OSA}%
+    }
+    \keyw{Coherence; Diode lasers; Spectroscopy, high-resolution}
+    \strng{namehash}{LADHXNMZWTFSMBMMBSYJ1}
+    \strng{fullhash}{LADHXNMZWTFSMBMMBSYJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{doi}
+    \verb 10.1364/OL.32.000641
+    \endverb
+    \field{number}{6}
+    \field{pages}{641\bibrangedash 643}
+    \field{title}{Compact, thermal-noise-limited optical cavity for diode laser
+  stabilization at 1 x 10 -15}
+    \verb{url}
+    \verb http://ol.osa.org/abstract.cfm?URI=ol-32-6-641
+    \endverb
+    \field{volume}{32}
+    \field{journaltitle}{Opt. Lett.}
+    \field{year}{2007}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{PhysRevLett.82.3799}{article}{}
+    \name{author}{4}{}{%
+      {{hash=YBC}{%
+         family={Young},
+         familyi={Y\bibinitperiod},
+         given={B.\bibnamedelima C.},
+         giveni={B\bibinitperiod\bibinitdelim C\bibinitperiod},
+      }}%
+      {{hash=CFC}{%
+         family={Cruz},
+         familyi={C\bibinitperiod},
+         given={F.\bibnamedelima C.},
+         giveni={F\bibinitperiod\bibinitdelim C\bibinitperiod},
+      }}%
+      {{hash=IWM}{%
+         family={Itano},
+         familyi={I\bibinitperiod},
+         given={W.\bibnamedelima M.},
+         giveni={W\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+      {{hash=BJC}{%
+         family={Bergquist},
+         familyi={B\bibinitperiod},
+         given={J.\bibnamedelima C.},
+         giveni={J\bibinitperiod\bibinitdelim C\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {American Physical Society}%
+    }
+    \strng{namehash}{YBCCFCIWMBJC1}
+    \strng{fullhash}{YBCCFCIWMBJC1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{doi}
+    \verb 10.1103/PhysRevLett.82.3799
+    \endverb
+    \field{issue}{19}
+    \field{pages}{3799\bibrangedash 3802}
+    \field{title}{Visible Lasers with Subhertz Linewidths}
+    \verb{url}
+    \verb http://link.aps.org/doi/10.1103/PhysRevLett.82.3799
+    \endverb
+    \field{volume}{82}
+    \field{journaltitle}{Phys. Rev. Lett.}
+    \field{year}{1999}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{R.2008}{article}{}
+    \name{author}{7}{}{%
+      {{hash=RST}{%
+         family={R.},
+         familyi={R\bibinitperiod},
+         given={Schibli\bibnamedelima T.},
+         giveni={S\bibinitperiod\bibinitdelim T\bibinitperiod},
+      }}%
+      {{hash=IH}{%
+         family={I.},
+         familyi={I\bibinitperiod},
+         given={Hartl},
+         giveni={H\bibinitperiod},
+      }}%
+      {{hash=CYD}{%
+         family={C.},
+         familyi={C\bibinitperiod},
+         given={Yost\bibnamedelima D.},
+         giveni={Y\bibinitperiod\bibinitdelim D\bibinitperiod},
+      }}%
+      {{hash=JMM}{%
+         family={J.},
+         familyi={J\bibinitperiod},
+         given={Martin\bibnamedelima M.},
+         giveni={M\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+      {{hash=AM}{%
+         family={A.},
+         familyi={A\bibinitperiod},
+         given={Marcinkevicius},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=EFM}{%
+         family={E.},
+         familyi={E\bibinitperiod},
+         given={Fermann\bibnamedelima M.},
+         giveni={F\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+      {{hash=JY}{%
+         family={J.},
+         familyi={J\bibinitperiod},
+         given={Ye},
+         giveni={Y\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Nature Publishing Group}%
+    }
+    \strng{namehash}{RSTIHCYDJMMAMEFMJY1}
+    \strng{fullhash}{RSTIHCYDJMMAMEFMJY1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{doi}
+    \verb 10.1038/nphoton.2008.79
+    \endverb
+    \field{issn}{1749-4885}
+    \field{number}{6}
+    \field{pages}{355\bibrangedash 359}
+    \field{title}{Optical frequency comb with sub-millihertz linewidth and more
+  than 10 W average power}
+    \verb{url}
+    \verb http://dx.doi.org/10.1038/nphoton.2008.79
+    \endverb
+    \field{volume}{2}
+    \field{journaltitle}{Nat Photon}
+    \field{year}{2008}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{RevModPhys.78.1297}{article}{}
+    \name{author}{1}{}{%
+      {{hash=HTW}{%
+         family={H\"ansch},
+         familyi={H\bibinitperiod},
+         given={Theodor\bibnamedelima W.},
+         giveni={T\bibinitperiod\bibinitdelim W\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {American Physical Society}%
+    }
+    \strng{namehash}{HTW1}
+    \strng{fullhash}{HTW1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{doi}
+    \verb 10.1103/RevModPhys.78.1297
+    \endverb
+    \field{issue}{4}
+    \field{pages}{1297\bibrangedash 1309}
+    \field{title}{Nobel Lecture: Passion for precision*}
+    \verb{url}
+    \verb http://link.aps.org/doi/10.1103/RevModPhys.78.1297
+    \endverb
+    \field{volume}{78}
+    \field{journaltitle}{Rev. Mod. Phys.}
+    \field{year}{2006}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{Grosche2008}{article}{}
+    \name{author}{3}{}{%
+      {{hash=GG}{%
+         family={Grosche},
+         familyi={G\bibinitperiod},
+         given={G.},
+         giveni={G\bibinitperiod},
+      }}%
+      {{hash=LB}{%
+         family={Lipphardt},
+         familyi={L\bibinitperiod},
+         given={B.},
+         giveni={B\bibinitperiod},
+      }}%
+      {{hash=SH}{%
+         family={Schnatz},
+         familyi={S\bibinitperiod},
+         given={H.},
+         giveni={H\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{GGLBSH1}
+    \strng{fullhash}{GGLBSH1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{abstract}{%
+    We report the synthesis and measurement of an ultra-precise and extremely
+  stable optical frequency in the telecommunications window around 1543 nm.
+  Using a fibre-based femtosecond frequency comb we have phase-stabilised a
+  fibre laser at 194 THz to an optical frequency standard at 344 THz, thus
+  transferring the properties of the optical frequency standard to another
+  spectral region. Relative to the optical frequency standard, the synthesised
+  frequency at 194 THz is determined to within 1 mHz and its fractional
+  frequency instability is measured to be less than 2x10-15 at 1 s, reaching
+  5x10-18 after 8000 s. We also measured the synthesised frequency against a
+  caesium fountain clock: here the frequency comparison itself contributes less
+  than 4 mHz (2x10-17) to the uncertainty. Our results confirm the suitability
+  of fibre based frequency comb technology for precision measurements and
+  frequency synthesis, and enable long-distance comparison of optical clocks by
+  using optical fibres to transmit the frequency information.%
+    }
+    \verb{doi}
+    \verb 10.1140/epjd/e2008-00065-7
+    \endverb
+    \field{issn}{1434-6079}
+    \field{number}{1}
+    \field{pages}{27\bibrangedash 33}
+    \field{title}{Optical frequency synthesis and measurement using fibre-based
+  femtosecond lasers}
+    \verb{url}
+    \verb http://dx.doi.org/10.1140/epjd/e2008-00065-7
+    \endverb
+    \field{volume}{48}
+    \field{journaltitle}{The European Physical Journal D}
+    \field{year}{2008}
+  \endentry
+
+  \entry{RevModPhys.78.1279}{article}{}
+    \name{author}{1}{}{%
+      {{hash=HJL}{%
+         family={Hall},
+         familyi={H\bibinitperiod},
+         given={John\bibnamedelima L.},
+         giveni={J\bibinitperiod\bibinitdelim L\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {American Physical Society}%
+    }
+    \strng{namehash}{HJL1}
+    \strng{fullhash}{HJL1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{doi}
+    \verb 10.1103/RevModPhys.78.1279
+    \endverb
+    \field{issue}{4}
+    \field{pages}{1279\bibrangedash 1295}
+    \field{title}{Nobel Lecture: Defining and measuring optical frequencies*}
+    \verb{url}
+    \verb http://link.aps.org/doi/10.1103/RevModPhys.78.1279
+    \endverb
+    \field{volume}{78}
+    \field{journaltitle}{Rev. Mod. Phys.}
+    \field{year}{2006}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{RevModPhys.75.325}{article}{}
+    \name{author}{2}{}{%
+      {{hash=CST}{%
+         family={Cundiff},
+         familyi={C\bibinitperiod},
+         given={Steven\bibnamedelima T.},
+         giveni={S\bibinitperiod\bibinitdelim T\bibinitperiod},
+      }}%
+      {{hash=YJ}{%
+         family={Ye},
+         familyi={Y\bibinitperiod},
+         given={Jun},
+         giveni={J\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {American Physical Society}%
+    }
+    \strng{namehash}{CSTYJ1}
+    \strng{fullhash}{CSTYJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{doi}
+    \verb 10.1103/RevModPhys.75.325
+    \endverb
+    \field{issue}{1}
+    \field{pages}{325\bibrangedash 342}
+    \field{title}{\textit{Colloquium} : Femtosecond optical frequency combs}
+    \verb{url}
+    \verb http://link.aps.org/doi/10.1103/RevModPhys.75.325
+    \endverb
+    \field{volume}{75}
+    \field{journaltitle}{Rev. Mod. Phys.}
+    \field{year}{2003}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{Udem:99}{article}{}
+    \name{author}{4}{}{%
+      {{hash=UT}{%
+         family={Udem},
+         familyi={U\bibinitperiod},
+         given={Th.},
+         giveni={T\bibinitperiod},
+      }}%
+      {{hash=RJ}{%
+         family={Reichert},
+         familyi={R\bibinitperiod},
+         given={J.},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=HR}{%
+         family={Holzwarth},
+         familyi={H\bibinitperiod},
+         given={R.},
+         giveni={R\bibinitperiod},
+      }}%
+      {{hash=HTW}{%
+         family={H\"{a}nsch},
+         familyi={H\bibinitperiod},
+         given={T.\bibnamedelima W.},
+         giveni={T\bibinitperiod\bibinitdelim W\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {OSA}%
+    }
+    \keyw{Metrological instrumentation; Pulses}
+    \strng{namehash}{UTRJHRHTW1}
+    \strng{fullhash}{UTRJHRHTW1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{abstract}{%
+    We have used the comb of optical frequencies emitted by a mode-locked laser
+  as a ruler to measure differences of as much as 20 THz between laser
+  frequencies. This is to our knowledge the largest gap measured with a
+  frequency comb, with high potential for further improvements. To check the
+  accuracy of this approach we show that the modes are distributed uniformly in
+  frequency space within the experimental limit of 3.0 parts in 1017. By
+  comparison with an optical frequency comb generator we have verified that the
+  mode separation equals the pulse repetition rate within the experimental
+  limit of 6.0 parts in 1016.%
+    }
+    \verb{doi}
+    \verb 10.1364/OL.24.000881
+    \endverb
+    \field{number}{13}
+    \field{pages}{881\bibrangedash 883}
+    \field{title}{Accurate measurement of large optical frequency differences
+  with a mode-locked laser}
+    \verb{url}
+    \verb http://ol.osa.org/abstract.cfm?URI=ol-24-13-881
+    \endverb
+    \field{volume}{24}
+    \field{journaltitle}{Opt. Lett.}
+    \field{year}{1999}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{PhysRevLett.88.073601}{article}{}
+    \name{author}{4}{}{%
+      {{hash=SJ}{%
+         family={Stenger},
+         familyi={S\bibinitperiod},
+         given={J\"orn},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=SH}{%
+         family={Schnatz},
+         familyi={S\bibinitperiod},
+         given={Harald},
+         giveni={H\bibinitperiod},
+      }}%
+      {{hash=TC}{%
+         family={Tamm},
+         familyi={T\bibinitperiod},
+         given={Christian},
+         giveni={C\bibinitperiod},
+      }}%
+      {{hash=THR}{%
+         family={Telle},
+         familyi={T\bibinitperiod},
+         given={Harald\bibnamedelima R.},
+         giveni={H\bibinitperiod\bibinitdelim R\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {American Physical Society}%
+    }
+    \strng{namehash}{SJSHTCTHR1}
+    \strng{fullhash}{SJSHTCTHR1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{doi}
+    \verb 10.1103/PhysRevLett.88.073601
+    \endverb
+    \field{issue}{7}
+    \field{pages}{073601}
+    \field{title}{Ultraprecise Measurement of Optical Frequency Ratios}
+    \verb{url}
+    \verb http://link.aps.org/doi/10.1103/PhysRevLett.88.073601
+    \endverb
+    \field{volume}{88}
+    \field{journaltitle}{Phys. Rev. Lett.}
+    \field{year}{2002}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{PhysRevLett.84.5102}{article}{}
+    \name{author}{10}{}{%
+      {{hash=DSA}{%
+         family={Diddams},
+         familyi={D\bibinitperiod},
+         given={Scott\bibnamedelima A.},
+         giveni={S\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+      {{hash=JDJ}{%
+         family={Jones},
+         familyi={J\bibinitperiod},
+         given={David\bibnamedelima J.},
+         giveni={D\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+      {{hash=YJ}{%
+         family={Ye},
+         familyi={Y\bibinitperiod},
+         given={Jun},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=CST}{%
+         family={Cundiff},
+         familyi={C\bibinitperiod},
+         given={Steven\bibnamedelima T.},
+         giveni={S\bibinitperiod\bibinitdelim T\bibinitperiod},
+      }}%
+      {{hash=HJL}{%
+         family={Hall},
+         familyi={H\bibinitperiod},
+         given={John\bibnamedelima L.},
+         giveni={J\bibinitperiod\bibinitdelim L\bibinitperiod},
+      }}%
+      {{hash=RJK}{%
+         family={Ranka},
+         familyi={R\bibinitperiod},
+         given={Jinendra\bibnamedelima K.},
+         giveni={J\bibinitperiod\bibinitdelim K\bibinitperiod},
+      }}%
+      {{hash=WRS}{%
+         family={Windeler},
+         familyi={W\bibinitperiod},
+         given={Robert\bibnamedelima S.},
+         giveni={R\bibinitperiod\bibinitdelim S\bibinitperiod},
+      }}%
+      {{hash=HR}{%
+         family={Holzwarth},
+         familyi={H\bibinitperiod},
+         given={Ronald},
+         giveni={R\bibinitperiod},
+      }}%
+      {{hash=UT}{%
+         family={Udem},
+         familyi={U\bibinitperiod},
+         given={Thomas},
+         giveni={T\bibinitperiod},
+      }}%
+      {{hash=HTW}{%
+         family={H\"ansch},
+         familyi={H\bibinitperiod},
+         given={T.\bibnamedelima W.},
+         giveni={T\bibinitperiod\bibinitdelim W\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {American Physical Society}%
+    }
+    \strng{namehash}{DSAJDJYJCSTHJLRJKWRSHRUTHTW1}
+    \strng{fullhash}{DSAJDJYJCSTHJLRJKWRSHRUTHTW1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{doi}
+    \verb 10.1103/PhysRevLett.84.5102
+    \endverb
+    \field{issue}{22}
+    \field{pages}{5102\bibrangedash 5105}
+    \field{title}{Direct Link between Microwave and Optical Frequencies with a
+  300 THz Femtosecond Laser Comb}
+    \verb{url}
+    \verb http://link.aps.org/doi/10.1103/PhysRevLett.84.5102
+    \endverb
+    \field{volume}{84}
+    \field{journaltitle}{Phys. Rev. Lett.}
+    \field{year}{2000}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{Kielpinski2002}{article}{}
+    \name{author}{3}{}{%
+      {{hash=KD}{%
+         family={Kielpinski},
+         familyi={K\bibinitperiod},
+         given={D.},
+         giveni={D\bibinitperiod},
+      }}%
+      {{hash=MC}{%
+         family={Monroe},
+         familyi={M\bibinitperiod},
+         given={C.},
+         giveni={C\bibinitperiod},
+      }}%
+      {{hash=WDJ}{%
+         family={Wineland},
+         familyi={W\bibinitperiod},
+         given={D.\bibnamedelima J.},
+         giveni={D\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{KDMCWDJ1}
+    \strng{fullhash}{KDMCWDJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{doi}
+    \verb 10.1038/nature00784
+    \endverb
+    \field{issn}{0028-0836}
+    \field{number}{6890}
+    \field{pages}{709\bibrangedash 711}
+    \field{title}{Architecture for a large-scale ion-trap quantum computer}
+    \verb{url}
+    \verb http://dx.doi.org/10.1038/nature00784
+    \endverb
+    \field{volume}{417}
+    \field{journaltitle}{Nature}
+    \field{year}{2002}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{TransGateTh}{article}{}
+    \name{author}{4}{}{%
+      {{hash=LD}{%
+         family={Leibfried},
+         familyi={L\bibinitperiod},
+         given={D.},
+         giveni={D\bibinitperiod},
+      }}%
+      {{hash=KE}{%
+         family={Knill},
+         familyi={K\bibinitperiod},
+         given={E.},
+         giveni={E\bibinitperiod},
+      }}%
+      {{hash=OC}{%
+         family={Ospelkaus},
+         familyi={O\bibinitperiod},
+         given={C.},
+         giveni={C\bibinitperiod},
+      }}%
+      {{hash=WDJ}{%
+         family={Wineland},
+         familyi={W\bibinitperiod},
+         given={D.\bibnamedelima J.},
+         giveni={D\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {American Physical Society}%
+    }
+    \strng{namehash}{LDKEOCWDJ1}
+    \strng{fullhash}{LDKEOCWDJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{doi}
+    \verb 10.1103/PhysRevA.76.032324
+    \endverb
+    \field{issue}{3}
+    \field{pages}{032324}
+    \field{title}{Transport quantum logic gates for trapped ions}
+    \verb{url}
+    \verb http://link.aps.org/doi/10.1103/PhysRevA.76.032324
+    \endverb
+    \field{volume}{76}
+    \field{journaltitle}{Phys. Rev. A}
+    \field{year}{2007}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{TransGateExp}{article}{}
+    \name{author}{9}{}{%
+      {{hash=dCLE}{%
+         prefix={de},
+         prefixi={d\bibinitperiod},
+         family={Clercq},
+         familyi={C\bibinitperiod},
+         given={Ludwig\bibnamedelima E.},
+         giveni={L\bibinitperiod\bibinitdelim E\bibinitperiod},
+      }}%
+      {{hash=LHY}{%
+         family={Lo},
+         familyi={L\bibinitperiod},
+         given={Hsiang-Yu},
+         giveni={H\bibinitperiod-Y\bibinitperiod},
+      }}%
+      {{hash=MM}{%
+         family={Marinelli},
+         familyi={M\bibinitperiod},
+         given={Matteo},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=ND}{%
+         family={Nadlinger},
+         familyi={N\bibinitperiod},
+         given={David},
+         giveni={D\bibinitperiod},
+      }}%
+      {{hash=OR}{%
+         family={Oswald},
+         familyi={O\bibinitperiod},
+         given={Robin},
+         giveni={R\bibinitperiod},
+      }}%
+      {{hash=NV}{%
+         family={Negnevitsky},
+         familyi={N\bibinitperiod},
+         given={Vlad},
+         giveni={V\bibinitperiod},
+      }}%
+      {{hash=KD}{%
+         family={Kienzler},
+         familyi={K\bibinitperiod},
+         given={Daniel},
+         giveni={D\bibinitperiod},
+      }}%
+      {{hash=KB}{%
+         family={Keitch},
+         familyi={K\bibinitperiod},
+         given={Ben},
+         giveni={B\bibinitperiod},
+      }}%
+      {{hash=HJP}{%
+         family={Home},
+         familyi={H\bibinitperiod},
+         given={Jonathan\bibnamedelima P.},
+         giveni={J\bibinitperiod\bibinitdelim P\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {American Physical Society}%
+    }
+    \strng{namehash}{CLEdLHYMMNDORNVKDKBHJP1}
+    \strng{fullhash}{CLEdLHYMMNDORNVKDKBHJP1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{doi}
+    \verb 10.1103/PhysRevLett.116.080502
+    \endverb
+    \field{issue}{8}
+    \field{pages}{080502}
+    \field{title}{Parallel Transport Quantum Logic Gates with Trapped Ions}
+    \verb{url}
+    \verb http://link.aps.org/doi/10.1103/PhysRevLett.116.080502
+    \endverb
+    \field{volume}{116}
+    \field{journaltitle}{Phys. Rev. Lett.}
+    \field{year}{2016}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{PhysRevA.57.3748}{article}{}
+    \name{author}{2}{}{%
+      {{hash=SS}{%
+         family={Schneider},
+         familyi={S\bibinitperiod},
+         given={S.},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=MGJ}{%
+         family={Milburn},
+         familyi={M\bibinitperiod},
+         given={G.\bibnamedelima J.},
+         giveni={G\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {American Physical Society}%
+    }
+    \strng{namehash}{SSMGJ1}
+    \strng{fullhash}{SSMGJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{doi}
+    \verb 10.1103/PhysRevA.57.3748
+    \endverb
+    \field{issue}{5}
+    \field{pages}{3748\bibrangedash 3752}
+    \field{title}{Decoherence in ion traps due to laser intensity and phase
+  fluctuations}
+    \verb{url}
+    \verb https://link.aps.org/doi/10.1103/PhysRevA.57.3748
+    \endverb
+    \field{volume}{57}
+    \field{journaltitle}{Phys. Rev. A}
+    \field{year}{1998}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{SACKETT2003431}{article}{}
+    \name{author}{3}{}{%
+      {{hash=SC}{%
+         family={Sackett},
+         familyi={S\bibinitperiod},
+         given={C.A.},
+         giveni={C\bibinitperiod},
+      }}%
+      {{hash=MC}{%
+         family={Monroe},
+         familyi={M\bibinitperiod},
+         given={C.},
+         giveni={C\bibinitperiod},
+      }}%
+      {{hash=WD}{%
+         family={Wineland},
+         familyi={W\bibinitperiod},
+         given={D.J.},
+         giveni={D\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{SCMCWD1}
+    \strng{fullhash}{SCMCWD1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{doi}
+    \verb http://dx.doi.org/10.1016/S0960-0779(02)00304-1
+    \endverb
+    \field{issn}{0960-0779}
+    \field{number}{3}
+    \field{pages}{431 \bibrangedash  437}
+    \field{title}{Decoherence of motional superpositions of a trapped ion}
+    \verb{url}
+    \verb http://www.sciencedirect.com/science/article/pii/S0960077902003041
+    \endverb
+    \field{volume}{16}
+    \field{journaltitle}{Chaos, Solitons & Fractals}
+    \field{year}{2003}
+  \endentry
+
+  \entry{RevModPhys.75.715}{article}{}
+    \name{author}{1}{}{%
+      {{hash=ZWH}{%
+         family={Zurek},
+         familyi={Z\bibinitperiod},
+         given={Wojciech\bibnamedelima Hubert},
+         giveni={W\bibinitperiod\bibinitdelim H\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {American Physical Society}%
+    }
+    \strng{namehash}{ZWH1}
+    \strng{fullhash}{ZWH1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{doi}
+    \verb 10.1103/RevModPhys.75.715
+    \endverb
+    \field{issue}{3}
+    \field{pages}{715\bibrangedash 775}
+    \field{title}{Decoherence, einselection, and the quantum origins of the
+  classical}
+    \verb{url}
+    \verb https://link.aps.org/doi/10.1103/RevModPhys.75.715
+    \endverb
+    \field{volume}{75}
+    \field{journaltitle}{Rev. Mod. Phys.}
+    \field{year}{2003}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{Ma:94}{article}{}
+    \name{author}{4}{}{%
+      {{hash=MLS}{%
+         family={Ma},
+         familyi={M\bibinitperiod},
+         given={Long-Sheng},
+         giveni={L\bibinitperiod-S\bibinitperiod},
+      }}%
+      {{hash=JP}{%
+         family={Jungner},
+         familyi={J\bibinitperiod},
+         given={Peter},
+         giveni={P\bibinitperiod},
+      }}%
+      {{hash=YJ}{%
+         family={Ye},
+         familyi={Y\bibinitperiod},
+         given={Jun},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=HJL}{%
+         family={Hall},
+         familyi={H\bibinitperiod},
+         given={John\bibnamedelima L.},
+         giveni={J\bibinitperiod\bibinitdelim L\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {OSA}%
+    }
+    \strng{namehash}{MLSJPYJHJL1}
+    \strng{fullhash}{MLSJPYJHJL1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{abstract}{%
+    Although a single-mode optical fiber is a convenient and
+  efficientinterface/connecting medium, it introduces phase-noise modulation,
+  whichcorrupts high-precision frequency-based applications by broadening the
+  spectrumtoward the kilohertz domain. We describe a simple double-pass fiber
+  noisemeasurement and control system, which is demonstrated to provide
+  millihertzaccuracy of noise cancellation.%
+    }
+    \verb{doi}
+    \verb 10.1364/OL.19.001777
+    \endverb
+    \field{number}{21}
+    \field{pages}{1777\bibrangedash 1779}
+    \field{title}{Delivering the same optical frequency at two places:
+  accuratecancellation of phase noise introduced by an optical fiber or other
+  time-varyingpath}
+    \verb{url}
+    \verb http://ol.osa.org/abstract.cfm?URI=ol-19-21-1777
+    \endverb
+    \field{volume}{19}
+    \field{journaltitle}{Opt. Lett.}
+    \field{year}{1994}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{PhysRevLett.109.080502}{article}{}
+    \name{author}{9}{}{%
+      {{hash=BR}{%
+         family={Bowler},
+         familyi={B\bibinitperiod},
+         given={R.},
+         giveni={R\bibinitperiod},
+      }}%
+      {{hash=GJ}{%
+         family={Gaebler},
+         familyi={G\bibinitperiod},
+         given={J.},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=LY}{%
+         family={Lin},
+         familyi={L\bibinitperiod},
+         given={Y.},
+         giveni={Y\bibinitperiod},
+      }}%
+      {{hash=TTR}{%
+         family={Tan},
+         familyi={T\bibinitperiod},
+         given={T.\bibnamedelima R.},
+         giveni={T\bibinitperiod\bibinitdelim R\bibinitperiod},
+      }}%
+      {{hash=HD}{%
+         family={Hanneke},
+         familyi={H\bibinitperiod},
+         given={D.},
+         giveni={D\bibinitperiod},
+      }}%
+      {{hash=JJD}{%
+         family={Jost},
+         familyi={J\bibinitperiod},
+         given={J.\bibnamedelima D.},
+         giveni={J\bibinitperiod\bibinitdelim D\bibinitperiod},
+      }}%
+      {{hash=HJP}{%
+         family={Home},
+         familyi={H\bibinitperiod},
+         given={J.\bibnamedelima P.},
+         giveni={J\bibinitperiod\bibinitdelim P\bibinitperiod},
+      }}%
+      {{hash=LD}{%
+         family={Leibfried},
+         familyi={L\bibinitperiod},
+         given={D.},
+         giveni={D\bibinitperiod},
+      }}%
+      {{hash=WDJ}{%
+         family={Wineland},
+         familyi={W\bibinitperiod},
+         given={D.\bibnamedelima J.},
+         giveni={D\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {American Physical Society}%
+    }
+    \strng{namehash}{BRGJLYTTRHDJJDHJPLDWDJ1}
+    \strng{fullhash}{BRGJLYTTRHDJJDHJPLDWDJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{doi}
+    \verb 10.1103/PhysRevLett.109.080502
+    \endverb
+    \field{issue}{8}
+    \field{pages}{080502}
+    \field{title}{Coherent Diabatic Ion Transport and Separation in a Multizone
+  Trap Array}
+    \verb{url}
+    \verb https://link.aps.org/doi/10.1103/PhysRevLett.109.080502
+    \endverb
+    \field{volume}{109}
+    \field{journaltitle}{Phys. Rev. Lett.}
+    \field{year}{2012}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{PhysRevLett.100.200502}{article}{}
+    \name{author}{10}{}{%
+      {{hash=MAH}{%
+         family={Myerson},
+         familyi={M\bibinitperiod},
+         given={A.\bibnamedelima H.},
+         giveni={A\bibinitperiod\bibinitdelim H\bibinitperiod},
+      }}%
+      {{hash=SDJ}{%
+         family={Szwer},
+         familyi={S\bibinitperiod},
+         given={D.\bibnamedelima J.},
+         giveni={D\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+      {{hash=WSC}{%
+         family={Webster},
+         familyi={W\bibinitperiod},
+         given={S.\bibnamedelima C.},
+         giveni={S\bibinitperiod\bibinitdelim C\bibinitperiod},
+      }}%
+      {{hash=ADTC}{%
+         family={Allcock},
+         familyi={A\bibinitperiod},
+         given={D.\bibnamedelima T.\bibnamedelima C.},
+         giveni={D\bibinitperiod\bibinitdelim T\bibinitperiod\bibinitdelim
+  C\bibinitperiod},
+      }}%
+      {{hash=CMJ}{%
+         family={Curtis},
+         familyi={C\bibinitperiod},
+         given={M.\bibnamedelima J.},
+         giveni={M\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+      {{hash=IG}{%
+         family={Imreh},
+         familyi={I\bibinitperiod},
+         given={G.},
+         giveni={G\bibinitperiod},
+      }}%
+      {{hash=SJA}{%
+         family={Sherman},
+         familyi={S\bibinitperiod},
+         given={J.\bibnamedelima A.},
+         giveni={J\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+      {{hash=SDN}{%
+         family={Stacey},
+         familyi={S\bibinitperiod},
+         given={D.\bibnamedelima N.},
+         giveni={D\bibinitperiod\bibinitdelim N\bibinitperiod},
+      }}%
+      {{hash=SAM}{%
+         family={Steane},
+         familyi={S\bibinitperiod},
+         given={A.\bibnamedelima M.},
+         giveni={A\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+      {{hash=LDM}{%
+         family={Lucas},
+         familyi={L\bibinitperiod},
+         given={D.\bibnamedelima M.},
+         giveni={D\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {American Physical Society}%
+    }
+    \strng{namehash}{MAHSDJWSCADTCCMJIGSJASDNSAMLDM1}
+    \strng{fullhash}{MAHSDJWSCADTCCMJIGSJASDNSAMLDM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{doi}
+    \verb 10.1103/PhysRevLett.100.200502
+    \endverb
+    \field{issue}{20}
+    \field{pages}{200502}
+    \field{title}{High-Fidelity Readout of Trapped-Ion Qubits}
+    \verb{url}
+    \verb https://link.aps.org/doi/10.1103/PhysRevLett.100.200502
+    \endverb
+    \field{volume}{100}
+    \field{journaltitle}{Phys. Rev. Lett.}
+    \field{year}{2008}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{PhysRevA.81.040302}{article}{}
+    \name{author}{4}{}{%
+      {{hash=BAH}{%
+         family={Burrell},
+         familyi={B\bibinitperiod},
+         given={A.\bibnamedelima H.},
+         giveni={A\bibinitperiod\bibinitdelim H\bibinitperiod},
+      }}%
+      {{hash=SDJ}{%
+         family={Szwer},
+         familyi={S\bibinitperiod},
+         given={D.\bibnamedelima J.},
+         giveni={D\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+      {{hash=WSC}{%
+         family={Webster},
+         familyi={W\bibinitperiod},
+         given={S.\bibnamedelima C.},
+         giveni={S\bibinitperiod\bibinitdelim C\bibinitperiod},
+      }}%
+      {{hash=LDM}{%
+         family={Lucas},
+         familyi={L\bibinitperiod},
+         given={D.\bibnamedelima M.},
+         giveni={D\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {American Physical Society}%
+    }
+    \strng{namehash}{BAHSDJWSCLDM1}
+    \strng{fullhash}{BAHSDJWSCLDM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{doi}
+    \verb 10.1103/PhysRevA.81.040302
+    \endverb
+    \field{issue}{4}
+    \field{pages}{040302}
+    \field{title}{Scalable simultaneous multiqubit readout with $99.99\%$
+  single-shot fidelity}
+    \verb{url}
+    \verb https://link.aps.org/doi/10.1103/PhysRevA.81.040302
+    \endverb
+    \field{volume}{81}
+    \field{journaltitle}{Phys. Rev. A}
+    \field{year}{2010}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{doi:10.1063/1.4970542}{article}{}
+    \name{author}{3}{}{%
+      {{hash=RAV}{%
+         family={Rynbach},
+         familyi={R\bibinitperiod},
+         given={Andre\bibnamedelima Van},
+         giveni={A\bibinitperiod\bibinitdelim V\bibinitperiod},
+      }}%
+      {{hash=MP}{%
+         family={Maunz},
+         familyi={M\bibinitperiod},
+         given={Peter},
+         giveni={P\bibinitperiod},
+      }}%
+      {{hash=KJ}{%
+         family={Kim},
+         familyi={K\bibinitperiod},
+         given={Jungsang},
+         giveni={J\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{RAVMPKJ1}
+    \strng{fullhash}{RAVMPKJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{doi}
+    \verb 10.1063/1.4970542
+    \endverb
+    \verb{eprint}
+    \verb http://dx.doi.org/10.1063/1.4970542
+    \endverb
+    \field{number}{22}
+    \field{pages}{221108}
+    \field{title}{An integrated mirror and surface ion trap with a tunable trap
+  location}
+    \verb{url}
+    \verb http://dx.doi.org/10.1063/1.4970542
+    \endverb
+    \field{volume}{109}
+    \field{journaltitle}{Applied Physics Letters}
+    \field{year}{2016}
+  \endentry
+
+  \entry{PhysRevLett.118.073001}{article}{}
+    \name{author}{4}{}{%
+      {{hash=PR}{%
+         family={Puebla},
+         familyi={P\bibinitperiod},
+         given={Ricardo},
+         giveni={R\bibinitperiod},
+      }}%
+      {{hash=HMJ}{%
+         family={Hwang},
+         familyi={H\bibinitperiod},
+         given={Myung-Joong},
+         giveni={M\bibinitperiod-J\bibinitperiod},
+      }}%
+      {{hash=CJ}{%
+         family={Casanova},
+         familyi={C\bibinitperiod},
+         given={Jorge},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=PMB}{%
+         family={Plenio},
+         familyi={P\bibinitperiod},
+         given={Martin\bibnamedelima B.},
+         giveni={M\bibinitperiod\bibinitdelim B\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {American Physical Society}%
+    }
+    \strng{namehash}{PRHMJCJPMB1}
+    \strng{fullhash}{PRHMJCJPMB1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{doi}
+    \verb 10.1103/PhysRevLett.118.073001
+    \endverb
+    \field{issue}{7}
+    \field{pages}{073001}
+    \field{title}{Probing the Dynamics of a Superradiant Quantum Phase
+  Transition with a Single Trapped Ion}
+    \verb{url}
+    \verb https://link.aps.org/doi/10.1103/PhysRevLett.118.073001
+    \endverb
+    \field{volume}{118}
+    \field{journaltitle}{Phys. Rev. Lett.}
+    \field{year}{2017}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+\endsortlist
+\endinput
